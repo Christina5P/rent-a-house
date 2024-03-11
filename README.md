@@ -80,6 +80,25 @@ And don´t think I need the contact details in the footer, since it is clear whe
 
 <hr> -->
 
+## Structure
+Website has the sections Navigation bar, Services, Gallery and contact form for booking
+I made a skeleton with wireframes first in a word document to organize the sections.
+
+Design
+
+- Colours will give you a happy holiday feeling.
+- The font are choosen to have a known and popular font with a laidback and modern style.
+Fonts are taken from Google Fonts
+link: "https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald:wght@200;300;400;500;600;700&display=swap"
+
+## Source references
+- www.w3schools.com 
+More information about CSS styling Images and CSS codes
+- Google map
+- Google Fonts
+
+
+
 ## Future Features
 
 Social media links
@@ -95,6 +114,8 @@ Contact page
 2. Next step is too book and get confirmed right away on the site.
 
 <hr>
+
+/* nedan är bara mall*/ 
 
 ## Manual Testing 
 

@@ -92,10 +92,11 @@ Fonts are taken from Google Fonts
 link: "https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald:wght@200;300;400;500;600;700&display=swap"
 
 ## Source references
-- www.w3schools.com 
+- www.w3schools.com -
 More information about CSS styling Images and CSS codes
 - Google map
 - Google Fonts
+- http://davidbau.com/colors/  - to find colours
 
 
 

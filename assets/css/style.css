@@ -1,11 +1,15 @@
-
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald:wght@200;300;400;500;600;700&display=swap');
+
 /*' General styles*/
 * { padding: 0;
     margin: 0;
-   
-    box-sizing: border-box;
+       box-sizing: border-box;
  }
+
+header > h1{
+    font-size: xx-large;
+}
+
 
 body {
     min-height: 100vh;
@@ -13,43 +17,43 @@ body {
     font-size: small;
     background-color:beige;
     color:#285780;
-    text-transform: none;
+
+  
     text-align: justify;
     background-size: auto;
-   
-   
-    display: flex;
-    flex-direction: column;
+      
 
    }
    #menu {
     font-size: 110% ;
     letter-spacing: 2px;
+    border-bottom: #285780;
+    float: right;
     display: flex;
     flex-direction: column;
-    border-bottom: #285780;
+   }
     
     
     #cover-text{
-        background-color: blanchedalmond;
+        background-color: transparent;
         font-size: 110%;
-        position: absolute;
+        position: relative;
         width: fit-content;
-
+        color: beige;
+        top: 10px;
+        text-transform: none;
+       
     }
-    
-   
 
-   }
- 
+
    /* background sector with background picture*/
    #view {
     background-image: url("..assets/img/krokviken-view.jpg") no-repeat center/ cover;
     position: relative;
     max-height: 100%;
     width: 100%;
-    opacity: 0.7;
-    
+    opacity: 0.4;
+        
        }
 
        /* div picture of house*/
@@ -64,22 +68,13 @@ body {
 
     }
 
-   h2 {
-    
-   }
-   h3 {
 
-   }
 #gallery {
     
 }
-#booking-form {
-    display: block;
-    background-position: center;
-    position: relative;
-    padding: 5px 10% 0% 10px;
-        }
+/* Rental page with sign up form*/
 
+     
    
 
   

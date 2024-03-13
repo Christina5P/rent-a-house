@@ -58,9 +58,10 @@ body {
         padding: 10px;
         text-transform: none;
         z-index: 1;
+        flex-grow: 1;
        
     }
-   /* size and position of background picture*/
+   /* size and position of description text*/
    .view{
     height:auto;
     max-width: 100%;
@@ -71,59 +72,81 @@ body {
    }
 /*background picture*/
    #view {
-    background-image: url("..assets/img/krokviken-view.jpg") no-repeat center/ cover;
+    background-image: url("..assets/img/krokviken-view.jpg") ;
+        text-align: center;
+    background-size: cover;
+    background-repeat: no-repeat;
     position: relative;
     opacity: 0.5;   
      }
- .rent > h3 {
+ .rent > h2 {
     padding: 0 10px 20px 10px;
         font-size: large;
     clear:both ;  
-}
+    margin-bottom: 20px;
+ }
 
 
-       /* div containers and picture of house*/
-       #house-container {
-        border-top: 1px solid #285780;
-        display: flex;
-        width: 80%;
-        padding-top: 20px;
-       }
 
        #house {
         background-image: url("/workspace/rent-a-house/assets/img/krokviken-house.jpg");
         background-repeat: no-repeat; 
         display: flex;
         align-items: flex-start;
-        width: 70%;
-        flex-direction: row;
+        width: 40%;
+        flex-direction: column;
         padding: 10px 5px 20px 5px;
         float: left;
         margin-left: 30px;
 
     }
-    #text{
-               font-size: small;
+    #text {
+               font-size: medium;
                display: flex;
-               flex-basis: 500%;
-               flex-direction: row;
+               flex-basis: 100%;
+               flex-grow: 1;
+               flex-direction: column;
+               flex: 1;
                padding: 10px 5px 20px 5px;
-          margin-right: 10px;
-          float: right;
-          box-sizing: content-box;                      
+            margin-right: 10px;
+            box-sizing: content-box;                      
 
     }
-    .spacer{
-        margin-bottom: 15px;
+    .spacer {
+        margin: 15px 15px 15px 25px;
     }
 
-
-#gallery {
-    
+   /* description text of the area*/
+.location {
+    justify-content: space-around;
+    font-size: medium;
+    margin: 20px;
 }
-/* Rental page with sign up form*/
 
-     
+
+/* Rental page with sign up form*/
+#form {
+    margin: 10px;
+    padding: 100px 10px 0px 10px  ;
+ }    
+
+ 
+ .text-input{
+    background: transparent;
+    width: 50%;
+    margin-left: 10px;
+    height: 25px;
+    border: 1px solid #285780;
+    border-radius: 5px;
+ }
+   .submit {
+    margin-top: 25px;
+    width: 75%;
+    height: 30px;
+   }
+
+
+ 
    
 
   

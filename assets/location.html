@@ -9,10 +9,11 @@
     content="rent, vacation, Sundsvall, Alnö, summer, travel, house, booking">
     <!--Title-->
     <title>Rent a house</title>
+    <script async src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAQhZ-OgVORQGAr_SmapJXn-fuzqgDzlfc&callback=console.debug&libraries=maps,marker&v=beta">
+    </script>
+        <a  href="index.html"></a>
 </head>
-<body>
 
-    <a  href="index.html">
 
     <!-- Heading rental in location-->
     <header>
@@ -29,16 +30,16 @@
         <li><a href="location.html" class="active">Location</a></li>
         <li><a href="rental.html">Rental</a></li>
          </ul>
-     </nav>
+     </nav>   
     </header>
 
     <body>
-        <main>
+      
 <section class="location">
 
-<p >
-          Alnö is called Norrlands Hawaii because it is an popular island, just outside Sundsvalls town.
-       The island have a lot of beaches and summer vibes.
+
+        <h3>  Alnö is called Norrlands Hawaii because it is an popular island, just outside Sundsvalls town.</h3>
+          <p > The island have a lot of beaches and summer vibes.
        <br>
         Krokviken is a perfect place to stay in. It has a calm, privat beach and is only 2 kilometers
         away from bigger beaches of both sides with activities as beachvolly net, yoga classes etc.
@@ -66,14 +67,14 @@
    
 <!-- location on map-->
 <div>
-    <iframe>
-    width="600"
-    height="450"
-    style="border:0"
-    src= "https://www.google.com/maps/embed/v1/place/Krokviken/@62.3607355,17.3102821,11z/data=!4m6!3m5!1s0x4664643cc74d58f9:0x877ce832afee8355!8m2!3d62.360733!4d17.475077!16s%2Fg%2F11b62r9lp4?entry=ttu">
-        </iframe>
+    <gmp-map center="62.361854553222656,17.469877243041992" zoom="14" map-id="DEMO_MAP_ID">
+        <gmp-advanced-marker position="62.361854553222656,17.469877243041992" title="My location"></gmp-advanced-marker>
+      </gmp-map>
+
+   
+  
     </div>
-</main>
+
 </body>
     
     <footer>

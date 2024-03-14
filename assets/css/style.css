@@ -115,6 +115,23 @@ body {
     .spacer {
         margin: 15px 15px 15px 25px;
     }
+    .gallery{
+        background-repeat: no-repeat; 
+        display: inline-block;
+        border: 1px solid beige (0 0% 60%);
+        margin: 5px;
+        width: 200%;
+                    }
+
+            .gallery:hover{
+            border: 5px solid rgb(59, 59, 16) (0 0% 20%);
+        }
+
+        .gallery img{
+            width: : 100%;
+            height: auto;
+        }
+
 
    /* description text of the area*/
 .location {
@@ -122,6 +139,10 @@ body {
     font-size: medium;
     margin: 20px;
 }
+/*Google-map*/
+gmp-map {
+    height: 100%;
+  }
 
 
 /* Rental page with sign up form*/

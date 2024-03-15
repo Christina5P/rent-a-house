@@ -8,7 +8,7 @@
  
 header {
     text-align: left;
-    margin-top: 30px;
+   /* margin-top: 30px;*/
  
 }
   
@@ -33,9 +33,7 @@ body {
    }
 
 /* Nav toggle - change menu with drop down */
-/*#nav-toggle:{
-    /*checked~nav
-    display: block;}*/ 
+
 
 #nav-toggle {
     display: none; }
@@ -132,8 +130,6 @@ body {
         background-repeat: no-repeat; 
         display: flex;
         flex-direction: column;
-       /* till större skärmar 
-       border-radius: 20px; */
         margin: 5px;
         width:100%;
                     }
@@ -178,3 +174,40 @@ body {
     width: 75%;
     height: 30px;
    }
+
+   #social-networks {
+    text-align: center;
+    padding: 20px 0;
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none;
+    background-color: ivory;
+    font-size: 110%;
+    padding: 5%;
+    color:#285780;
+}
+/*
+#social-networks i {
+    font-size: 160%;
+    padding: 5%;
+    color:#285780;
+}*/
+
+
+
+ /* Media query: Large or landscape phones (660px and up)*/
+ @media screen and (min-width: 660px) {
+    #photos {
+      display: flex;
+      flex-direction: row;
+      width: 18%;    
+      border-radius: 20px;  
+      }
+      #social-networks {
+        padding: 22% 10px 0 10px;
+        display: flex;
+        align-items: flex-end;
+        width: 100%;
+
+ }
+ }

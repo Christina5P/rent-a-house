@@ -3,8 +3,9 @@
 /*' General styles*/
 * { padding: 0;
     margin: 0;
-       box-sizing: border-box;
- }
+    box-sizing: border-box;
+}
+ 
 header {
     text-align: left;
     margin-top: 30px;
@@ -23,22 +24,19 @@ body {
     font-size: small;
     background-color:ivory;
     color:#285780;
-
-  
     text-align: justify;
     background-size: auto;
-      
+       }
 
-   }
    nav {
     position:relative;
     width: 100%;
     padding: 0 1rem;
+
     /* border between heading and body*/
     box-shadow: 0 2px 2px #3a3a3a;  
-    /*display: none; */
     top: 100%   
-
+ /*display: none; */
     /*
     padding: 5% 10% 30px 10%;
       display: flex;
@@ -63,18 +61,18 @@ body {
   
       }
    
-    
+    /*covertext on the picture*/
     #cover-text{
         background-color: transparent;
-        font-size: x-large;
+        font-size: 150%;
         position: absolute;
         color: ivory;
-        top: 200px;
-        left: 20px;
-        padding: 10px;
+        padding-top: 10%;
+        padding-left: 20px;
+        padding-bottom: 50px;
         text-transform: none;
-        z-index: 1;
-        flex-grow: 1;
+        text-align: start;
+           
        
     }
    /* size and position of description text*/
@@ -88,17 +86,16 @@ body {
 /*background picture*/
    #view {
     background-image: url("..assets/img/krokviken-view.jpg") ;
-        text-align: center;
+    text-align: center;
     background-size: cover;
     background-repeat: no-repeat;
     position: relative;
     opacity: 0.5;   
      }
 
+
  .rent {
-    padding: 0 10px 20px 10px;
-        font-size: large;
-    clear:both ;  
+    padding: 10px 10px 20px 10px;
     margin-bottom: 20px;
     font-size: medium;
  }
@@ -114,14 +111,12 @@ body {
         flex-direction: column;
         padding: 10px 5px 20px 5px;
         float: left;
-        margin-left: 25%;
+        /*margin-left: 25%;*/
 
     }
     #text {
                font-size: medium;
                display: flex;
-               flex-basis: 100%;
-               flex-grow: 1;
                flex-direction: column;
                flex: 1;
                padding: 10px 5px 20px 5px;
@@ -153,7 +148,6 @@ body {
 
    /* description text of the area*/
 .location {
-    justify-content: space-around;
     font-size: medium;
     margin: 20px;
 }
@@ -166,18 +160,20 @@ body {
 /* Rental page with sign up form*/
 #form {
     margin: 10px;
-    padding: 100px 10px 0px 10px  ;
- }    
+    padding: 10px 10px 0px 10px  ;
+    position: relative;
+    background-position: center;
+     }    
 
  
  .text-input{
     background: transparent;
     width: 50%;
-    margin-left: 10px;
     height: 25px;
     border: 1px solid #285780;
     border-radius: 5px;
- }
+    display: block;
+    
    .submit {
     margin-top: 25px;
     width: 75%;

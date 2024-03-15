@@ -11,12 +11,7 @@ header {
     margin-top: 30px;
  
 }
-
-header > h1{
-    font-size: xx-large;
-    
-}
-
+  
 
 body {
     min-height: 100vh;
@@ -29,37 +24,38 @@ body {
        }
 
    nav {
-    position:absolute;
+    /*position:absolute;*/
     width: 100%;
-    padding: 0 1rem;
-
-    /* border between heading and body*/
-    box-shadow: 0 2px 2px #3a3a3a;  
-    top: 100%   
- /*display: none; */
-    /*
-    padding: 5% 10% 30px 10%;
-      display: flex;
-   top: 5%;
-   float: right;*/
+    padding: 0 1rem 20px;
+    right: 0;
+    box-shadow: 0 5px 10px 5px #3a3a3a;  
+   /* top: 100% */
    }
 
 /* Nav toggle - change menu with drop down */
-#nav-toggle:checked~nav {
-    display: block;
-}
+/*#nav-toggle:{
+    /*checked~nav
+    display: block;}*/ 
+
+#nav-toggle {
+    display: none; }
+    
+    .nav-toggle-label {
+        font-size: 2rem;
+        cursor: pointer;
+        padding: 10px 20px;
+    }
 
    #menu {
     font-size: 110% ;
     letter-spacing: 2px;
+       list-style-type: none;
+       text-align: right;
+
    /* display: flex;
-    flex-direction: column;*/
-    margin:10px 5% 10px 5%;  
-    list-style-type: none;
-    display: flex;
-    justify-content: space-evenly;
-  
-      }
+    flex-direction: column;
+     margin:10px 5% 10px 5%;  */
+         }
    
     /*covertext on the picture*/
     #cover-text{
@@ -79,7 +75,7 @@ body {
    .view{
     height:auto;
     max-width: 100%;
-    float: left;
+   /* float: left;*/
     padding: 10px 0 20px 0;
        }
 
@@ -110,7 +106,7 @@ body {
         width: 60%;
         flex-direction: column;
         padding: 10px 5px 20px 5px;
-        float: left;
+      /* float: left;*/
         /*margin-left: 25%;*/
 
     }
@@ -127,6 +123,11 @@ body {
     .spacer {
         margin: 15px 15px 15px 25px;
     }
+
+    #pictures{
+       margin-block: revert  ;
+    }
+
     .gallery {
         background-repeat: no-repeat; 
         display: flex;
@@ -170,7 +171,7 @@ body {
     height: 25px;
     border: 1px solid #285780;
     border-radius: 5px;
-    display: block;
+    display: block; }
     
    .submit {
     margin-top: 25px;

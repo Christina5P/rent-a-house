@@ -2,7 +2,7 @@
 
 /*' General styles*/
 * { padding: 0;
-    margin: 0;
+    margin: 10px;
     box-sizing: border-box;
 }
  
@@ -154,8 +154,8 @@ body {
 
 /* Rental page with sign up form*/
 #form {
-    margin: 10px;
-    padding: 10px 10px 0px 10px  ;
+    margin: 5px;
+    padding: 10px 10px 50px 10px  ;
     position: relative;
     background-position: center;
      }    
@@ -177,7 +177,6 @@ body {
 
    #social-networks {
     text-align: center;
-    padding: 20px 0;
     display: flex;
     justify-content: space-evenly;
     list-style: none;
@@ -186,12 +185,12 @@ body {
     padding: 5%;
     color:#285780;
 }
-/*
+
 #social-networks i {
     font-size: 160%;
     padding: 5%;
     color:#285780;
-}*/
+}
 
 
 
@@ -204,7 +203,7 @@ body {
       border-radius: 20px;  
       }
       #social-networks {
-        padding: 22% 10px 0 10px;
+        padding: 50% 10px 0 10px;
         display: flex;
         align-items: flex-end;
         width: 100%;

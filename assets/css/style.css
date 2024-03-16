@@ -20,53 +20,57 @@ body {
          }
 
  
-/* Nav toggle - change menu with drop down */
-
-
+/* Nav toggle - change menu with drop down -dont use them because HTML doesn´t work
 #nav-toggle {
     display: none; }
     
-    .nav-toggle-label {
+ .nav-toggle-label {
         font-size: 2rem;
         cursor: pointer;
-       padding: 10px 20px;  }
+       padding: 10px 20px; }  */
   
-
-   
-    nav {
-        /*position:absolute;*/
-        width: 100%;
-        padding: 0 1rem 20px;
-        right: 0;
+       /* menu in header*/
+     nav {
+        position:absolute;
+        width: 70%;
         box-shadow: 0 5px 10px 5px #3a3a3a;  
-        color: antiquewhite;
-       /* top: 100% */
-       }
+        background-color: ivory;
+        top:30px ;
+        margin-left: 30px;
+        }
 
+      
+/* header text */
        a {
         color: antiquewhite;
+        color: #285780;
        }
 
+/* placement of menu in header*/
    #menu {
     font-size: 110% ;
     letter-spacing: 2px;
        list-style-type: none;
        text-align: center;
        margin-right: 15px;
-      
-
-   /* display: flex;
-    flex-direction: column;
-     margin:10px 5% 10px 5%;  */
          }
+      
          
 header {
-    text-align: left;
-    font-size: xx-large;
-   
-}
+       font-size: large;
+     }
  
+     /* size and placement of background picture in header*/
+#header{ 
+  background: url("../assets/img/header.jpg") no-repeat center center / cover;
+ width: 100%;
+ height: 600px;
+ position: relative;
+ opacity: 0.8;
+ margin: 0;
+  }
 
+   
   main {
     padding: 20px;}
    
@@ -75,100 +79,72 @@ header {
     margin-top: 10%;
   }
    
-    /*covertext on the picture
-    #cover-text{
-        background-color: transparent;
-        font-size: 150%;
-        position: absolute;
-        color: ivory;
-        padding-top: 10%;
-        padding-left: 20px;
-        padding-bottom: 50px;
-        text-transform: none;
-        text-align: start;*/
-           
-       
-    
+      
    /* size and position of description text*/
-   .view{
-    height:auto;
-    max-width: 100%;
-   /* float: left;*/
-    padding: 10px 0 20px 0;
-       }
-
-.header{ 
-    background-image: url("../assets/img/header.jpg") ;
-    text-align: center;
-    background-size: cover;
-    background-repeat: no-repeat;
-    position: relative;
-    opacity: 0.5;   
-     }
-  
-
-
- .rent {
-    padding: 10px 10px 20px 10px;
-    margin: 60 px 0 20px 0;
+   .rent {
+  padding: 10px 10px 20px 10px;
     font-size: large;
- }
+  text-align: left ;
+}
+
+/* picture of house on home side and div text under*/
+#text {
+  font-size: medium;
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  padding: 10px 5px 20px 5px;
+margin-right: 10px;
+box-sizing: content-box;                      
+}
+
+/* house-picture*/
+#house {
+  background-image: url("/workspace/rent-a-house/assets/img/krokviken-house.jpg");
+  background-repeat: no-repeat; 
+  display: flex;
+  align-items: flex-start;
+  width: 60%;
+  flex-direction: column;
+  padding: 10px 5px 20px 5px;
+}
+
+.spacer {
+  margin: 30px 20px 20px 0px;
+          font-size: large;
+}
+
+/* header for Gallery*/
+#pictures{
+  margin-block: revert;
+  color: #285780;
+  text-align: center;
+}
 
 
-
-       #house {
-        background-image: url("/workspace/rent-a-house/assets/img/krokviken-house.jpg");
-        background-repeat: no-repeat; 
-        display: flex;
-        align-items: flex-start;
-        width: 60%;
-        flex-direction: column;
-        padding: 10px 5px 20px 5px;
-      /* float: left;*/
-        /*margin-left: 25%;*/
-
-    }
-    #text {
-               font-size: medium;
-               display: flex;
-               flex-direction: column;
-               flex: 1;
-               padding: 10px 5px 20px 5px;
-            margin-right: 10px;
-            box-sizing: content-box;                      
-
-    }
-    .spacer {
-        margin: 30px 20px 20px 0px;
-                font-size: large;
-    }
-
-    #pictures{
-       margin-block: revert;
-       color: #285780;
-       text-align: center;
-    }
-
-    .gallery {
-        background-repeat: no-repeat; 
-        display: flex;
-        flex-direction: column;
-        margin: 5px;
-        width:100%;
-                    }
-
-          .gallery img{
-            width: 80%;
-            height:auto;
-            margin: 5px;
-        }
-#winter {
-  margin: 30px 0 20px 0;
+.gallery {
+  background-repeat: no-repeat; 
+  display: flex;
+  flex-direction: column;
+  margin: 5px;
   width:100%;
-  height:auto;
+              }
+
+    .gallery img{
+      width: 80%;
+      height:auto;
+      margin: 5px;
+  }
+
+  /* winter-picture*/
+#winter {
+margin: 30px 0 20px 0;
+width:100%;
+height:auto;
 }   
+ 
    /* description text of the area*/
-.location {
+   .location {
     font-size: large;
     margin: 40px 20px 30px 0 ;
 }
@@ -177,7 +153,6 @@ header {
     clip-path: margin-box;
     margin: 50% 20px 10px 0  ;
   } 
-
 
 /* Rental page with sign up form*/
 #form {
@@ -196,13 +171,14 @@ header {
     border-radius: 5px;
     display: block; }
     
+    /* submit button*/
    .submit {
     margin-top: 25px;
     width: 75%;
     height: 30px;
    }
 
-  
+/* Footer with logos*/  
 
    #social-networks {
     text-align: center;
@@ -222,6 +198,7 @@ header {
     margin: 0;
 }
 
+
   
  /* Media query: Large or landscape phones (576px and up)*/
  @media screen and (min-width: 576px) {
@@ -240,23 +217,36 @@ header {
       width: 50%;    
       border-radius: 20px;        
       }
+      #winter{ border-radius: 20px;
+      width: 80%;
     }
-
        #social-networks {
         padding: 0 10px 0 10px;
         display: flex;
         align-items: flex-end;
         width: 100%;
-        margin-top: 60%;
-
+       margin-top: 60%;
  }
-      
+}
+     
  /* Media query: Large or landscape phones (1200px and up)*/
  @media screen and (min-width: 1200px) {
       .gallery {
         display: flex;
         flex-direction: row;
       }
-
+      #winter{ 
+        width: 100%;}
  } 
- 
+
+
+
+  /*
+   .view{
+    height:auto;
+    max-width: 100%;
+   float: left;
+    padding: 10px 0 20px 0;
+       }
+*/
+  

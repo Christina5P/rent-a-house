@@ -1,17 +1,21 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald:wght@200;300;400;500;600;700&display=swap');
 
+
+
+.gluten {
+  font-family: "Gluten", cursive;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: bold ;
+  font-variation-settings:
+    "slnt" 0;
+}
 /*' General styles*/
 * { padding: 0;
     margin: 10px;
     box-sizing: border-box;
 }
  
-header {
-    text-align: left;
-   /* margin-top: 30px;*/
- 
-}
-  
 
 body {
     min-height: 100vh;
@@ -23,15 +27,7 @@ body {
     background-size: auto;
        }
 
-   nav {
-    /*position:absolute;*/
-    width: 100%;
-    padding: 0 1rem 20px;
-    right: 0;
-    box-shadow: 0 5px 10px 5px #3a3a3a;  
-   /* top: 100% */
-   }
-
+ 
 /* Nav toggle - change menu with drop down */
 
 
@@ -41,8 +37,21 @@ body {
     .nav-toggle-label {
         font-size: 2rem;
         cursor: pointer;
-        padding: 10px 20px;
-    }
+       padding: 10px 20px;  }
+  
+
+   
+    nav {
+        /*position:absolute;*/
+        width: 100%;
+        padding: 0 1rem 20px;
+        right: 0;
+        box-shadow: 0 5px 10px 5px #3a3a3a;  
+        color: #285780;
+       /* top: 100% */
+       }
+
+       
 
    #menu {
     font-size: 110% ;
@@ -54,6 +63,15 @@ body {
     flex-direction: column;
      margin:10px 5% 10px 5%;  */
          }
+         
+header {
+    text-align: left;
+      /* margin-top: 30px;*/
+ 
+}
+  main {
+    padding: 20px;
+  }
    
     /*covertext on the picture*/
     #cover-text{
@@ -175,21 +193,24 @@ body {
     height: 30px;
    }
 
+  
+
    #social-networks {
     text-align: center;
     display: flex;
     justify-content: space-evenly;
     list-style: none;
-    background-color: ivory;
+    background-color: #285780;
     font-size: 110%;
-    padding: 5%;
-    color:#285780;
+   
+    color:ivory;
 }
 
 #social-networks i {
     font-size: 160%;
     padding: 5%;
-    color:#285780;
+    color:ivory;
+    margin: 0;
 }
 
 

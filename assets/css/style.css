@@ -206,21 +206,43 @@ header {
     margin: 0;
 }
 
-
-
+  
+ /* Media query: Large or landscape phones (576px and up)*/
+ @media screen and (min-width: 576px) {
+    #photos {
+        column-count: 2;
+        column-gap: 0;
+    }
+ }
  /* Media query: Large or landscape phones (660px and up)*/
  @media screen and (min-width: 660px) {
-    #photos {
+   .header {font-size: large;}
+    
+    .gallery img {
       display: flex;
       flex-direction: row;
-      width: 18%;    
+      width: 50%;    
       border-radius: 20px;  
+       
+  
       }
-      #social-networks {
-        padding: 50% 10px 0 10px;
+    }
+
+       #social-networks {
+        padding: 0 10px 0 10px;
         display: flex;
         align-items: flex-end;
         width: 100%;
+        margin-top: 60%;
 
  }
- }
+      
+ /* Media query: Large or landscape phones (1200px and up)*/
+ @media screen and (min-width: 1200px) {
+      .gallery {
+        display: flex;
+        flex-direction: row;
+      }
+
+ } 
+ 

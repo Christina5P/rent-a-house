@@ -2,14 +2,6 @@
 
 
 
-.gluten {
-  font-family: "Gluten", cursive;
-  font-optical-sizing: auto;
-  font-weight: 700;
-  font-style: bold ;
-  font-variation-settings:
-    "slnt" 0;
-}
 /*' General styles*/
 * { padding: 0;
     margin: 10px;
@@ -19,7 +11,7 @@
 
 body {
     min-height: 100vh;
-    font-family: oswald, roboto, sans-serif;
+    font-family: gluten, roboto, sans-serif;
     font-size: small;
     background-color:ivory;
     color:#285780;
@@ -58,6 +50,7 @@ body {
     letter-spacing: 2px;
        list-style-type: none;
        text-align: right;
+       margin-right: 15px;
 
    /* display: flex;
     flex-direction: column;

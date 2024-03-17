@@ -21,13 +21,31 @@ body {
 
  
 /* Nav toggle - change menu with drop down -dont use them because HTML doesn´t work
-#nav-toggle {
-    display: none; }
-    
- .nav-toggle-label {
-        font-size: 2rem;
-        cursor: pointer;
-       padding: 10px 20px; }  */
+  */
+
+     .navbar {
+      position: absolute;
+      background-color: ivory;
+      padding-left: 0.7rem;
+      width: 100vw;
+      box-shadow: 0 3px 3px #59664ade;
+      display: block;
+      top: 7%;
+      left: 0;
+  }
+  #nav-toggle:checked~nav {
+      display: block;
+     
+  }
+  #nav-toggle {
+      display: none;
+  }
+  .nav-toggle-label {
+      font-size: .8rem;
+      color:#285780;
+   display: none;
+      padding-right: 1rem;
+  }
   
        /* menu in header*/
      nav {
@@ -39,7 +57,17 @@ body {
         margin-left: 30px;
         }
 
-      
+          /* mark active side on menu*/
+        .active {
+          color:#285780;
+          border: 2px solid rgb(25, 157, 209);
+      }
+    
+      a:hover {
+        color: #285780;
+        background-color:ivory;
+        transition: .8s;
+    }
 /* header text */
        a {
               color: #285780;
@@ -50,7 +78,7 @@ body {
     font-size: 110% ;
     letter-spacing: 2px;
        list-style-type: none;
-       text-align: center;
+       text-align: left;
        margin-right: 15px;
          }
       
@@ -210,7 +238,13 @@ height:auto;
 }
 
 
-  
+/* media query: 280PX and up*/
+nav {
+ 
+  margin-left: 10px;
+  }
+
+
  /* Media query: Large or landscape phones (576px and up)*/
  @media screen and (min-width: 576px) {
     #photos {

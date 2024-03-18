@@ -4,107 +4,96 @@
 
 Rent a house is a site for renting a house for vacation in Sweden.
 A lot of people looking for nature and calmness, a break from the busy everyday life.
+This is a opportunity to rent a house in a beautiful area.
+It´s a practical and economical way for familys and larger groups to have an rental accomodation beside hotels.You come closer to the beach and have more like a home accomodation.
+If you are a family or a group of friends with a car, this is a smoother opportunity with parking space, near beach and amenities that is describe on the location side.
 This website is a great opportunity to find a house that fits the requirement and it is an opportunity for me as an owner to reach out to public to find this place for rent.
+This is a house for short time rental from 1 night and up to 1 month.
 
 ![image](https://github.com/Christina5P/rent-a-house/assets/160019695/0e6bd5d2-a2e4-4ccb-bc3b-47c91f516d32)
 
-### Project Description - 
-A house for short time rental for vacations.
-### Project Purpose - 
-This is a opportunity to rent a house in a beautiful area.
- It´s a practical and economical way for familys and larger groups to have an rental accomodation beside hotels.You come closer to the beach and have more like a home accomodation.
 
-### How it benefits the Users, Users Demographic - Whom does the site target and how will it benefit them
-If you are a family or a group of friends with a car, this is a smoother opportunity with parking space, ner
+# Contents
+Navigation Bar
+![image](https://github.com/Christina5P/rent-a-house/assets/160019695/91e4db69-c279-4f35-9b38-9aa22a760a17)
+There is a navigation bar, visible on every page and you can in easy way keep track wich side you are heading for the moment with a frame mark of the sidename i the nav.bar
+The menu is right under the heading name, so it is easy to find. The heading name is a link, so you can click on the header name, to go back to the first page.
+You can also hoover over the menu and you see a hand mark.
+The whole menu is displayed on smaller devices as well, since there is enough space to fit and it´s quicker to see the pages instead of two steps action. 
 
-# Features 
 
-This part is to give a short description where the house is located and what you can expect from the rental object.
+
 The background picture are taken at the location and will give you a feeling of the calm area you will stay in.
-A picture of the rental house with a short description how many rooms and sixe it is.
+
 
 <hr> 
 
-**Navbar**
-From the navbar you can see the desription on first page, read about the location on the second page and get a contact for booking the house on the third page.
-
-  <!--<details><summary>Navbar Screenshot</summary>
-
-  <p align="center"><img src="https://placehold.co/600x400" alt="drawing" width="600"/></p>
-
-  </details> -->
+ **Home Page** - This part is to give a short description where the house is located and what you can expect from the rental object.
+A picture of the rental house with a short description how many rooms and size it is.
+![image](https://github.com/Christina5P/rent-a-house/assets/160019695/ebdbc4f7-45b6-498d-8585-3415311c8e41)
 
 <hr> 
 
-**Services**
-Location
-Here you can see wich service you have around you, as distance to grocery, town and hubs for transport. 
-
-  <!--<details><summary>Services Screenshot</summary>
-
-  <p align="center"><img src="https://placehold.co/600x400" alt="drawing" width="600"/></p>
-
-  </details>
-
-<hr> -->
-
-**The Gallery**
+**Gallery Page** - 
 Private pictures of the object, since pictures give you a feeling and say more than words.
-  <!--<details><summary>Gallery Screenshot</summary>
+<hr> 
 
-  <p align="center"><img src="https://placehold.co/600x400" alt="drawing" width="600"/></p>
+**Location Page** - Information of the area. It is a list with distance to some services and a map of location.
+![image](https://github.com/Christina5P/rent-a-house/assets/160019695/c50b602f-c7c9-46df-8ea8-8ee3d1ca7f26)
 
-  </details> -->
+The map is a link to google map and you can change size of the map directly on the location page.
+It is pinned with the exacly location of the residence.
+The map is placed in the footer section, so it doesn´t disturbe the other content and are placed on the end of the page.
 
 <hr> 
 
-**Contact Form**
+**Rental Page** - Contact formular to sending a request of booking or more information.
+Includes field for name and e-mail adress that is required and booking and message field for complement and are not required to fill in.
+![image](https://github.com/Christina5P/rent-a-house/assets/160019695/2850bbf9-d8cf-4ffb-b6ee-ada61cf1e761)
 
- <!--> - An interactive contact form to enable users to get in touch with the company
-  - Includes fields for name, email and a message
+<hr> 
 
-  <details><summary>Contact Form Screenshot</summary>
-
-  <p align="center"><img src="https://placehold.co/600x400" alt="drawing" width="600"/></p>
-
-  </details>
-
-<hr> -->
 
 **The Footer**
 
 The footer have links to social media.
 
-And don´t think I need the contact details in the footer, since it is clear where you find them through the menu.
-
  <!--> <details><summary>Footer Screenshot</summary>
-
-   <p align="center"><img src="https://placehold.co/600x400" alt="drawing" width="600"/></p>
-
-  </details>
 
 <hr> -->
 
 ## Structure
-Website has the sections Navigation bar, Services, Gallery and contact form for booking
-I made a skeleton with wireframes first in a word document to organize the sections.
+I started with a skeleton, drawn in a word doc. 
+I uploaded the doc in my repositories.
+After I started build the webpages, I added a Gallery page to show more pictures.
+Reason for that is to get more sense expressions. 
+![image](https://github.com/Christina5P/rent-a-house/assets/160019695/dcaab631-14c6-4152-ab8e-869727ee83b1)
 
-Design
 
-- Colours will give you a happy holiday feeling.
-- The font are choosen to have a known and popular font with a laidback and modern style.
+## Design
+
+- Colours will give you a happy holiday feeling. I have 2 base colours, since there is some pictures that make the pages colourful.
+  Background colour is a light ivory and I use a dark colour to make the text easily visible
+  ![image](https://github.com/Christina5P/rent-a-house/assets/160019695/b3c7a8b1-21fc-4c36-b2bd-960a76d15b38)
+![image](https://github.com/Christina5P/rent-a-house/assets/160019695/710f392a-68c8-46e2-8adf-c8be0661cc7c)
+
+- The font are choosen to get a casual design with a laidback and modern style.
 Fonts are taken from Google Fonts
-link: "https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald:wght@200;300;400;500;600;700&display=swap"
+link: "https://fonts.googleapis.com/css2?family=Gluten:wght@100..900&display=swap"
 
 ## Source references
-- www.w3schools.com -
-More information about CSS styling Images and CSS codes
-- Google map
-- Google Fonts
-- http://davidbau.com/colors/  - to find colours
+
+The sources I have used in the project is:
+- www.w3schools.com -More information about CSS styling Images and CSS codes
+- Google map - link to my map
+- Google Fonts - Find the font to use
+- https://www.color-hex.com - tT find colours
 -https://www.youtube.com/watch?v=uu0lOX6Ot3s - more tips to create image gallery
 -https://pixlr.com/se/express/ - to change picture to webformat
-
+- Pictures- It is private pictures uploaded
+- Header background is from https://pixabay.com/
+- Inspiration of codes are taken from "love Running" project (CI tutoring)
+- https://fontawesome.com/ - icons to the social media in the footer
 
 ## Future Features
 
@@ -122,210 +111,33 @@ Contact page
 
 <hr>
 
-/* nedan är bara mall*/ 
-
 ## Manual Testing 
-
-#### Features Testing
-
-|  Feature |  Action | Effect |
-|---|---|---|
-|Logo|Click|Brings back to Home page|
-|Navbar Links|Click on Gallery|Opens Gallery|
-||Click on About|Opens About page|
-||Click on Contact|Opens Contact page|
-|Contact Page|Fill out the form and submit|A form dump is rendered|
-||Attempt to submit empty|Error pops up in field that's left empty|
-|Social Media Links|Test Instagram link|Instagram profile opens in a separate tab|
-
+* I have tested with Safari on Ipad
+* I have tested with Safari on Iphone
+* I have tested all internal and external link
+* I have checked the contact form and its fields/ submit
+* I have tested thye responsive through the diffrent device sizes in Chrome inspections window
+  
 <hr>
+HTML validator
+* I have checked the HTML codes through https://validator.w3.org
+
+* I have checked the CSS style through   https://jigsaw.w3.org/css-validator
+
+* I have checked the resposive through responsivedesignchecker.com
+
 
 #### Lighthouse
 ![image](https://github.com/Christina5P/rent-a-house/assets/160019695/f95966ea-2584-4a60-851c-229aad413d5d)
 
-
-**Introduction**
-This report presents the results of Lighthouse testing conducted to assess the performance, accessibility, best practices, SEO, and PWA compliance of [Website Name].
-
-**Test Execution**
-Lighthouse tests were executed using the Google Chrome browser's DevTools.
-
-**Test Metrics**
-- Performance Score: 81
-- Accessibility Score: 93
-- Best Practices Score: 92
-- SEO Score: 92
-
-**Detailed Results**
-- **Performance**: The website's performance score is 81, indicating good overall performance. However, there is room for improvement to further optimize loading times.
-- **Accessibility**: The website excels in accessibility, with a score of 93, indicating strong adherence to accessibility standards. Minimal accessibility issues were detected.
-- **Best Practices**: The website follows best practices with a score of 92. There are minor areas for improvement, particularly in script loading.
-- **SEO**: SEO performance is strong, with a score of 92. The website has well-optimized meta tags and structured data markup.
 
 **Areas for Improvement**
 - Performance can be enhanced by optimizing resource loading and reducing unnecessary requests.
 - Continue monitoring accessibility to maintain a high standard and address any emerging issues.
 - Best practices can be further improved by optimizing script loading and code splitting.
 - Maintain and regularly update meta tags and structured data markup to ensure strong SEO performance.
-
-**Visuals**
-
-<p align="center"><img src="https://res.cloudinary.com/dugnokxox/image/upload/v1692960667/Screenshot_2023-08-25_at_11.50.29_cfmkxt.png" alt="drawing" width="800"/></p>
-
 <hr>
 
 #### Browsers
 
-**Supported Browsers and Devices**
-Our web application is officially tested and supported on the following browsers and devices:
-- Google Chrome (latest version)
-- Mozilla Firefox (latest version)
 
-**Responsiveness Testing**
-We conduct manual responsiveness testing on Chrome and Firefox to ensure a seamless user experience.
-
-**Test Results**
-
-| Device/Screen Size  | Chrome Performance | Firefox Performance |
-|----------------------|--------------------|---------------------|
-| Desktop (1920x1080) | Describe performance and issues on Chrome | Describe performance and issues on Firefox |
-| Laptop (1366x768)   | Describe performance and issues on Chrome | Describe performance and issues on Firefox |
-| Tablet (iPad)       | Describe performance and issues on Chrome | Describe performance and issues on Firefox |
-| Mobile (iPhone X)   | Describe performance and issues on Chrome | Describe performance and issues on Firefox |
-
-**Known Issues**
-- [List any known responsiveness issues or limitations]
-
-**Recommendations**
-If you encounter any responsiveness issues, we recommend:
-- Updating your browser to the latest version.
-- Trying an alternative device or screen size for optimal viewing.
-
-<hr>
-
-#### Screen Sizes testing
-
-**Introduction**
-This section provides an overview of how our web application [Website Name] performs across different screen sizes.
-
-**Supported Screen Sizes**
-Our web application is designed to be responsive and adapt to various screen sizes. Below are the screen sizes we have tested:
-
-| Screen Size     | Description             |
-|-----------------|-------------------------|
-| Desktop         | 1920x1080 pixels        |
-| Laptop          | 1366x768 pixels         |
-| Tablet (iPad)   | 768x1024 pixels (portrait) and 1024x768 pixels (landscape) |
-| Mobile (iPhone) | 375x812 pixels (iPhone X, portrait) and 812x375 pixels (iPhone X, landscape) |
-
-**Testing Results**
-
-| Screen Size     | Test Results           |
-|-----------------|------------------------|
-| Desktop         | Describe performance and issues on different browsers |
-| Laptop          | Describe performance and issues on different browsers |
-| Tablet (iPad)   | Describe performance and issues on different browsers |
-| Mobile (iPhone) | Describe performance and issues on different browsers |
-
-<hr> 
-
-#### Bugs Resolved
-
-
-**Introduction**
-This section provides a summary of bugs that have been identified, reported, and subsequently resolved in [Website Name].
-
-**Bug Tracking**
-Below is a summary of resolved bugs:
-
-| Bug ID | Bug Description | Status |
-|--------|-----------------|--------|
-| #001   | Describe the bug and its impact on the user experience. | Resolved |
-| #002   | Describe the bug and its impact on the user experience. | Resolved |
-| #003   | Describe the bug and its impact on the user experience. | Resolved |
-| #004   | Describe the bug and its impact on the user experience. | Resolved |
-| #005   | Describe the bug and its impact on the user experience. | Resolved |
-
-**Bug Details**
-Here are the details of the resolved bugs:
-
-**Bug #001**
-- **Description**: Describe the bug and the steps to reproduce it.
-- **Resolution**: Explain how the bug was resolved, including any code changes or fixes.
-- **Impact**: Discuss the impact of this bug on users and the importance of the fix.
-
-**Bug #002**
-- **Description**: Describe the bug and the steps to reproduce it.
-- **Resolution**: Explain how the bug was resolved, including any code changes or fixes.
-- **Impact**: Discuss the impact of this bug on users and the importance of the fix.
-
-**Bug #003**
-- **Description**: Describe the bug and the steps to reproduce it.
-- **Resolution**: Explain how the bug was resolved, including any code changes or fixes.
-- **Impact**: Discuss the impact of this bug on users and the importance of the fix.
-
-**Bug #004**
-- **Description**: Describe the bug and the steps to reproduce it.
-- **Resolution**: Explain how the bug was resolved, including any code changes or fixes.
-- **Impact**: Discuss the impact of this bug on users and the importance of the fix.
-
-**Bug #005**
-- **Description**: Describe the bug and the steps to reproduce it.
-- **Resolution**: Explain how the bug was resolved, including any code changes or fixes.
-- **Impact**: Discuss the impact of this bug on users and the importance of the fix.
-
-<hr>
-
-#### Bugs Unresolved(if applicable)
-
-| Bug ID | Bug Description | Status |
-|--------|-----------------|--------|
-| #001   | Describe the bug and its impact on the user experience. | Unesolved |
-| #002   | Describe the bug and its impact on the user experience. | Unesolved |
-| #003   | Describe the bug and its impact on the user experience. | Unesolved |
-| #004   | Describe the bug and its impact on the user experience. | Unesolved |
-| #005   | Describe the bug and its impact on the user experience. | Unesolved |
-<hr>
-
-#### Validator Testing 
-- HTML
-  - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcode-institute-org.github.io%2Flove-running-2.0%2Findex.html)
-- CSS
-  - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fvalidator.w3.org%2Fnu%2F%3Fdoc%3Dhttps%253A%252F%252Fcode-institute-org.github.io%252Flove-running-2.0%252Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en#css)
-
-
-
-## Deployment
-
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub) 
-
-- The site was deployed to GitHub pages. The steps to deploy are as follows: 
-  - In the GitHub repository, navigate to the Settings tab 
-  - From the source section drop-down menu, select the Main Branch
-  - Once the main branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
-
-The live link can be found here - https://code-institute-org.github.io/love-running-2.0/index.html 
-
-
-## Credits 
-
-In this section you need to reference where you got your content, media and extra help from. 
-It is common practice to use code from other repositories and tutorials, however, it is important to be very specific about these sources to avoid plagiarism. 
-
-You can break the credits section up into Content and Media, depending on what you have included in your project. 
-
-#### Content 
-
-- The text for the Home page was taken from Wikipedia Article A
-- The development of this project was aided by the following YouTube tutorials:
-
-| Tutorial Title      | Creator/Channel Name | Description                                          |
-|---------------------|-----------------------|------------------------------------------------------|
-| [Tutorial Title 1](link-to-tutorial) | [Creator/Channel Name 1] | How this tutorial helped you.             |
-| [Tutorial Title 2](link-to-tutorial) | [Creator/Channel Name 2] | How this tutorial contributed to your project. |
-
-- The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
-
-#### Media
-
-The following images used in this project are sourced from Unsplash and are used under their respective licenses:

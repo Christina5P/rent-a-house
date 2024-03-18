@@ -110,7 +110,7 @@ Contact page
 <hr>
 HTML validator
 * I have checked the HTML codes through https://validator.w3.org
-![image](https://github.com/Christina5P/rent-a-house/assets/160019695/18fb746b-78a5-4a08-b5d1-863e9346d498)
+![image](https://github.com/Christina5P/rent-a-house/assets/160019695/5723ae1a-edf0-4898-ba1c-bc29cbb74829)
 
 
 

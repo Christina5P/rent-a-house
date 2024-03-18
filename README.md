@@ -58,7 +58,7 @@ Includes field for name and e-mail adress that is required and booking and messa
 
 -The footer have links to social media.
 - Contact in the end of the footer
-![image](https://github.com/Christina5P/rent-a-house/assets/160019695/658a0f7d-02c4-4712-8e1b-37ee2a1d4304)
+- ![image](https://github.com/Christina5P/rent-a-house/assets/160019695/1c9272f2-9d76-472b-9ae6-46f5307a2361)
 
 
 
@@ -110,7 +110,8 @@ Contact page
 <hr>
 HTML validator
 * I have checked the HTML codes through https://validator.w3.org
-![image](https://github.com/Christina5P/rent-a-house/assets/160019695/ef4de50e-93af-4f3d-b8ad-d281cdb2837b)
+![image](https://github.com/Christina5P/rent-a-house/assets/160019695/18fb746b-78a5-4a08-b5d1-863e9346d498)
+
 
 
 

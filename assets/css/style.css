@@ -242,6 +242,13 @@ height:auto;
     margin: 0;
 }
 
+#contact {
+  padding: 15px;
+  display: flex;
+  align-items: flex-end;
+  position: relative;
+  bottom: 0%;
+}
 
 /* media query: 280PX and up*/
 nav {

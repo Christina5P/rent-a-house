@@ -1,8 +1,13 @@
 <!--<p align="center"><img src="/assets/images/responsive.png" alt="drawing" width="800"/></p> -->
 
-
-# Introduction
 # Rent a House
+
+Rent a house is a site for renting a house for vacation in Sweden.
+A lot of people looking for nature and calmness, a break from the busy everyday life.
+This website is a great opportunity to find a house that fits the requirement and it is an opportunity for me as an owner to reach out to public to find this place for rent.
+
+![image](https://github.com/Christina5P/rent-a-house/assets/160019695/0e6bd5d2-a2e4-4ccb-bc3b-47c91f516d32)
+
 ### Project Description - 
 A house for short time rental for vacations.
 ### Project Purpose - 
@@ -136,6 +141,8 @@ Contact page
 <hr>
 
 #### Lighthouse
+![image](https://github.com/Christina5P/rent-a-house/assets/160019695/f95966ea-2584-4a60-851c-229aad413d5d)
+
 
 **Introduction**
 This report presents the results of Lighthouse testing conducted to assess the performance, accessibility, best practices, SEO, and PWA compliance of [Website Name].

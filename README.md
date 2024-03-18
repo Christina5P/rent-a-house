@@ -56,9 +56,10 @@ Includes field for name and e-mail adress that is required and booking and messa
 
 **The Footer**
 
-The footer have links to social media.
+-The footer have links to social media.
+- Contact in the end of the footer
+![image](https://github.com/Christina5P/rent-a-house/assets/160019695/b8437bc0-b76a-48be-9192-50fd3fe50a46)
 
- <!--> <details><summary>Footer Screenshot</summary>
 
 <hr> -->
 
@@ -81,24 +82,11 @@ Reason for that is to get more sense expressions.
 Fonts are taken from Google Fonts
 link: "https://fonts.googleapis.com/css2?family=Gluten:wght@100..900&display=swap"
 
-## Source references
-
-The sources I have used in the project is:
-- www.w3schools.com -More information about CSS styling Images and CSS codes
-- Google map - link to my map
-- Google Fonts - Find the font to use
-- https://www.color-hex.com - tT find colours
--https://www.youtube.com/watch?v=uu0lOX6Ot3s - more tips to create image gallery
--https://pixlr.com/se/express/ - to change picture to webformat
-- Pictures- It is private pictures uploaded
-- Header background is from https://pixabay.com/
-- Inspiration of codes are taken from "love Running" project (CI tutoring)
-- https://fontawesome.com/ - icons to the social media in the footer
-
 ## Future Features
 
 Social media links
 The thouht is to upload a video on youtube, but it hasn´t been done yet.
+<hr>
 When I start the renting, Krokviken will have an own site on fb and instagram and the links will then go direct to those sites.
 That can lead to more traffic and the object will get attention to more poople and more revenue for me.
 
@@ -121,8 +109,11 @@ Contact page
 <hr>
 HTML validator
 * I have checked the HTML codes through https://validator.w3.org
+![image](https://github.com/Christina5P/rent-a-house/assets/160019695/54a811b6-f1d7-4e55-9f0a-94c82917bbce)
+
 
 * I have checked the CSS style through   https://jigsaw.w3.org/css-validator
+![image](https://github.com/Christina5P/rent-a-house/assets/160019695/fe281ea4-41c7-4875-bdcf-4baab3960264)
 
 * I have checked the resposive through responsivedesignchecker.com
 
@@ -130,14 +121,35 @@ HTML validator
 #### Lighthouse
 ![image](https://github.com/Christina5P/rent-a-house/assets/160019695/f95966ea-2584-4a60-851c-229aad413d5d)
 
+## Bugs
+Through testing I found bugs that are resolves:
+- Uploaded new Photo with smaller sizes
 
 **Areas for Improvement**
-- Performance can be enhanced by optimizing resource loading and reducing unnecessary requests.
-- Continue monitoring accessibility to maintain a high standard and address any emerging issues.
-- Best practices can be further improved by optimizing script loading and code splitting.
-- Maintain and regularly update meta tags and structured data markup to ensure strong SEO performance.
+
 <hr>
 
-#### Browsers
+## Source references
+
+The sources I have used in the project is:
+- www.w3schools.com -More information about CSS styling Images and CSS codes
+- Google map - link to my map
+- Google Fonts - Find the font to use
+- https://www.color-hex.com - tT find colours
+-https://www.youtube.com/watch?v=uu0lOX6Ot3s - more tips to create image gallery
+-https://pixlr.com/se/express/ - to change picture to webformat
+- Pictures- It is private pictures uploaded
+- Header background is from https://pixabay.com/
+- Inspiration of codes are taken from "love Running" project (CI tutoring)
+- https://fontawesome.com/ - icons to the social media in the footer
+
+## Acknowledgments
+I will say thank you to a few people, who helped me proceed my P1 :
+- My mentor Gareth
+- My student fellow Josefin YoshidaDahlqvist
+- My studentfellows on slack with quick respons of all my questions
+- Kristyna, who has a good pep attitude and helpful in a cleary way
+- 
+- 
 
 

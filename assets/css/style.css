@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald:wght@200;300;400;500;600;700&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Gluten:wght@100..900&display=swap");
 
 
 
@@ -87,6 +87,7 @@ header {
        font-size: large;
      }
  
+
      /* size and placement of background picture in header*/
 #header{ 
   background: url("/workspace/rent-a-house/assets/img/header.webp") no-repeat center center / cover;
@@ -125,32 +126,31 @@ margin-right: 10px;
 box-sizing: content-box;                      
 }
 
-/* house-picture
+/* house-picture */
 #house {
-  background-image: url("../assets/img/Krokvikenhouse.webp") ;
-  background-repeat: no-repeat; 
+ width: 60%;
+ height: auto;
   display: flex;
   align-items: flex-start;
-  width: 60%;
   flex-direction: column;
   padding: 10px 5px 20px 5px;
-}*/
+}
 
 .spacer {
   margin: 50px 20px 20px 0px;
           font-size: x-large;
 }
-/* beach-picture
+/* beach-picture */
 #beach {
-  img: url("/workspace/rent-a-house/assets/img/beach.jpg");
-  background-repeat: no-repeat; 
+ 
   display: flex;
   align-items: flex-start;
   width: 85%  ;
+  height: auto;
   flex-direction: column;
   padding: 10px 5px 20px 5px;
 }
-*/
+
 
 /* header for Gallery*/
 #pictures{
@@ -284,14 +284,3 @@ nav {
         width: 100%;}
  } 
 
-
-
-  /*
-   .view{
-    height:auto;
-    max-width: 100%;
-   float: left;
-    padding: 10px 0 20px 0;
-       }
-*/
-  

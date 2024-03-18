@@ -58,7 +58,8 @@ Includes field for name and e-mail adress that is required and booking and messa
 
 -The footer have links to social media.
 - Contact in the end of the footer
-![image](https://github.com/Christina5P/rent-a-house/assets/160019695/b8437bc0-b76a-48be-9192-50fd3fe50a46)
+![image](https://github.com/Christina5P/rent-a-house/assets/160019695/658a0f7d-02c4-4712-8e1b-37ee2a1d4304)
+
 
 
 <hr> -->
@@ -109,7 +110,8 @@ Contact page
 <hr>
 HTML validator
 * I have checked the HTML codes through https://validator.w3.org
-![image](https://github.com/Christina5P/rent-a-house/assets/160019695/54a811b6-f1d7-4e55-9f0a-94c82917bbce)
+![image](https://github.com/Christina5P/rent-a-house/assets/160019695/ef4de50e-93af-4f3d-b8ad-d281cdb2837b)
+
 
 
 * I have checked the CSS style through   https://jigsaw.w3.org/css-validator
@@ -149,7 +151,6 @@ I will say thank you to a few people, who helped me proceed my P1 :
 - My student fellow Josefin YoshidaDahlqvist
 - My studentfellows on slack with quick respons of all my questions
 - Kristyna, who has a good pep attitude and helpful in a cleary way
-- 
-- 
+  
 
 

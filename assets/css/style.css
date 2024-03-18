@@ -201,13 +201,18 @@ height:auto;
      }    
 
  
- .text-input{
+ .text-input {
     background: transparent;
     width: 50%;
     height: 25px;
     border: 1px solid #285780;
     border-radius: 5px;
     display: block; }
+    /* bigger space for message*/
+    
+ #message{
+    height: 50px; }
+  
     
     /* submit button*/
    .submit {

@@ -26,7 +26,6 @@ The whole menu is displayed on smaller devices as well, since there is enough sp
 
 The background picture are taken at the location and will give you a feeling of the calm area you will stay in.
 
-
 <hr> 
 
  **Home Page** - This part is to give a short description where the house is located and what you can expect from the rental object.
@@ -54,14 +53,11 @@ Includes field for name and e-mail adress that is required and booking and messa
 
 <hr> 
 
-
 **The Footer**
 
 -The footer have links to social media.
 - Contact in the end of the footer
 - ![image](https://github.com/Christina5P/rent-a-house/assets/160019695/1c9272f2-9d76-472b-9ae6-46f5307a2361)
-
-
 
 <hr> 
 
@@ -73,6 +69,7 @@ Reason for that is to get more sense expressions.
 ![image](https://github.com/Christina5P/rent-a-house/assets/160019695/dcaab631-14c6-4152-ab8e-869727ee83b1)
 
 <hr>
+
 ## Design
 
 - Colours will give you a happy holiday feeling. I have 2 base colours, since there is some pictures that make the pages colourful.
@@ -86,16 +83,16 @@ link: "https://fonts.googleapis.com/css2?family=Gluten:wght@100..900&display=swa
 
 ## Future Features
 
-Social media links
+# Social media links
 The thouht is to upload a video on youtube, but it hasn´t been done yet.
 <br>
 When I start the renting, Krokviken will have an own site on fb and instagram and the links will then go direct to those sites.
 That can lead to more traffic and the object will get attention to more poople and more revenue for me.
 
-Gallery
+# Gallery
 Upload more and updated pictures.
 
-Contact page
+# Contact page
 1.I can also add a calender, where they can see the availible dates right away.
 2. Next step is too book and get confirmed right away on the site.
 
@@ -109,24 +106,25 @@ Contact page
 * I have tested thye responsive through the diffrent device sizes in Chrome inspections window
   
 <hr>
-HTML validator
+# HTML validator
 * I have checked the HTML codes through https://validator.w3.org
 
 ![image](https://github.com/Christina5P/rent-a-house/assets/160019695/e834cdba-4eb7-49ac-a0dc-78aa1690abef)
 
-
+# CSS Style
 * I have checked the CSS style through   https://jigsaw.w3.org/css-validator
 ![image](https://github.com/Christina5P/rent-a-house/assets/160019695/fe281ea4-41c7-4875-bdcf-4baab3960264)
 
 * I have checked the resposive through responsivedesignchecker.com
 
 
-#### Lighthouse
+# Lighthouse
 ![image](https://github.com/Christina5P/rent-a-house/assets/160019695/f95966ea-2584-4a60-851c-229aad413d5d)
 
 https://responsivedesignchecker.com/
 
 <hr>
+
 ## Bugs
 Through testing I found bugs that are resolves:
 - Uploaded new Photo with smaller sizes
@@ -149,7 +147,7 @@ The sources I have used in the project is:
 - Inspiration of codes are taken from "love Running" project (CI tutoring)
 - https://fontawesome.com/ - icons to the social media in the footer
 
-## Acknowledgments
+# Acknowledgments
 I will say thank you to a few people, who helped me proceed my P1 :
 - My mentor Gareth
 - My student fellow Josefin YoshidaDahlqvist

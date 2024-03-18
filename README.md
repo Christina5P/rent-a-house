@@ -98,7 +98,7 @@ More information about CSS styling Images and CSS codes
 - Google Fonts
 - http://davidbau.com/colors/  - to find colours
 -https://www.youtube.com/watch?v=uu0lOX6Ot3s - more tips to create image gallery
-
+-https://pixlr.com/se/express/ - to change picture to webformat
 
 
 ## Future Features

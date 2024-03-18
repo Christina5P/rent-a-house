@@ -12,6 +12,7 @@ This is a house for short time rental from 1 night and up to 1 month.
 
 ![image](https://github.com/Christina5P/rent-a-house/assets/160019695/0e6bd5d2-a2e4-4ccb-bc3b-47c91f516d32)
 
+<hr>
 
 # Contents
 Navigation Bar
@@ -32,11 +33,11 @@ The background picture are taken at the location and will give you a feeling of 
 A picture of the rental house with a short description how many rooms and size it is.
 ![image](https://github.com/Christina5P/rent-a-house/assets/160019695/ebdbc4f7-45b6-498d-8585-3415311c8e41)
 
-<hr> 
+<br> 
 
 **Gallery Page** - 
 Private pictures of the object, since pictures give you a feeling and say more than words.
-<hr> 
+<br> 
 
 **Location Page** - Information of the area. It is a list with distance to some services and a map of location.
 ![image](https://github.com/Christina5P/rent-a-house/assets/160019695/c50b602f-c7c9-46df-8ea8-8ee3d1ca7f26)
@@ -45,7 +46,7 @@ The map is a link to google map and you can change size of the map directly on t
 It is pinned with the exacly location of the residence.
 The map is placed in the footer section, so it doesn´t disturbe the other content and are placed on the end of the page.
 
-<hr> 
+<br> 
 
 **Rental Page** - Contact formular to sending a request of booking or more information.
 Includes field for name and e-mail adress that is required and booking and message field for complement and are not required to fill in.
@@ -62,7 +63,7 @@ Includes field for name and e-mail adress that is required and booking and messa
 
 
 
-<hr> -->
+<hr> 
 
 ## Structure
 I started with a skeleton, drawn in a word doc. 
@@ -71,7 +72,7 @@ After I started build the webpages, I added a Gallery page to show more pictures
 Reason for that is to get more sense expressions. 
 ![image](https://github.com/Christina5P/rent-a-house/assets/160019695/dcaab631-14c6-4152-ab8e-869727ee83b1)
 
-
+<hr>
 ## Design
 
 - Colours will give you a happy holiday feeling. I have 2 base colours, since there is some pictures that make the pages colourful.
@@ -87,7 +88,7 @@ link: "https://fonts.googleapis.com/css2?family=Gluten:wght@100..900&display=swa
 
 Social media links
 The thouht is to upload a video on youtube, but it hasn´t been done yet.
-<hr>
+<br>
 When I start the renting, Krokviken will have an own site on fb and instagram and the links will then go direct to those sites.
 That can lead to more traffic and the object will get attention to more poople and more revenue for me.
 
@@ -114,9 +115,6 @@ HTML validator
 ![image](https://github.com/Christina5P/rent-a-house/assets/160019695/e834cdba-4eb7-49ac-a0dc-78aa1690abef)
 
 
-
-
-
 * I have checked the CSS style through   https://jigsaw.w3.org/css-validator
 ![image](https://github.com/Christina5P/rent-a-house/assets/160019695/fe281ea4-41c7-4875-bdcf-4baab3960264)
 
@@ -126,6 +124,9 @@ HTML validator
 #### Lighthouse
 ![image](https://github.com/Christina5P/rent-a-house/assets/160019695/f95966ea-2584-4a60-851c-229aad413d5d)
 
+https://responsivedesignchecker.com/
+
+<hr>
 ## Bugs
 Through testing I found bugs that are resolves:
 - Uploaded new Photo with smaller sizes

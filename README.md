@@ -1,6 +1,6 @@
 <!--<p align="center"><img src="/assets/images/responsive.png" alt="drawing" width="800"/></p> -->
 
-# Rent a House
+## Rent a House
 
 Rent a house is a site for renting a house for vacation in Sweden.
 A lot of people looking for nature and calmness, a break from the busy everyday life.
@@ -14,7 +14,7 @@ This is a house for short time rental from 1 night and up to 1 month.
 
 <hr>
 
-# Contents
+## Contents
 Navigation Bar
 ![image](https://github.com/Christina5P/rent-a-house/assets/160019695/91e4db69-c279-4f35-9b38-9aa22a760a17)
 There is a navigation bar, visible on every page and you can in easy way keep track wich side you are heading for the moment with a frame mark of the sidename i the nav.bar
@@ -53,7 +53,7 @@ Includes field for name and e-mail adress that is required and booking and messa
 
 <hr> 
 
-**The Footer**
+## The Footer
 
 -The footer have links to social media.
 - Contact in the end of the footer
@@ -83,16 +83,16 @@ link: "https://fonts.googleapis.com/css2?family=Gluten:wght@100..900&display=swa
 
 ## Future Features
 
-# Social media links
+**Social media links**
 The thouht is to upload a video on youtube, but it hasn´t been done yet.
 <br>
 When I start the renting, Krokviken will have an own site on fb and instagram and the links will then go direct to those sites.
 That can lead to more traffic and the object will get attention to more poople and more revenue for me.
 
-# Gallery
+**Gallery**
 Upload more and updated pictures.
 
-# Contact page
+**Contact page**
 1.I can also add a calender, where they can see the availible dates right away.
 2. Next step is too book and get confirmed right away on the site.
 
@@ -123,12 +123,11 @@ Upload more and updated pictures.
 ![image](https://github.com/Christina5P/rent-a-house/assets/160019695/f95966ea-2584-4a60-851c-229aad413d5d)
 
 # Testing Respponsive
-- https://responsivedesignchecker.com/
-![alt text](image-1.png)
+- https://responsivedesignchecker.com/<
+  ![image](https://github.com/Christina5P/rent-a-house/assets/160019695/15d3e39b-5734-4fbc-896d-607b0e604d71)
 
 - https://ui.dev/amiresponsive
-
-![alt text](image.png)
+![image](https://github.com/Christina5P/rent-a-house/assets/160019695/821d6587-00b3-42f6-9d54-a70a9404fe0c)
 
 <hr>
 
@@ -136,8 +135,6 @@ Upload more and updated pictures.
 Through testing I found bugs that are resolves:
 - Uploaded new Photo with smaller sizes
 - The deployed site didn´t find links to img. I resolved it through tutorlesson of how to point at right map
-
-**Areas for Improvement**
 
 <hr>
 
@@ -156,7 +153,7 @@ The sources I have used in the project is:
 - https://fontawesome.com/ - icons to the social media in the footer
 - Tutor assistance -teach how to point link to right map in workspace
 
-# Acknowledgments
+## Acknowledgments
 I will say thank you to a few people, who helped me proceed my P1 :
 - My mentor Gareth
 - My student fellow Josefin YoshidaDahlqvist

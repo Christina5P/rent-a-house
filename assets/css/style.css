@@ -90,7 +90,7 @@ header {
 
      /* size and placement of background picture in header*/
 #header{ 
-background: url("assets/img/header.webp") no-repeat center center / cover;
+background: url("../img/header.webp") no-repeat center center / cover;
  width: 100%;
  height: 600px;
  position: relative;

@@ -12,7 +12,7 @@
 body {
     min-height: 100vh;
     font-family: gluten, roboto, sans-serif;
-    font-size: small;
+    font-size: large;
     background-color:ivory;
     color:#285780;
     text-align: justify;
@@ -112,13 +112,13 @@ background: url("../img/header.webp") no-repeat center center / cover;
    /* size and position of description text*/
    .rent {
   padding: 10px 10px 20px 10px;
-    font-size: large;
+    font-size: x-large;
   text-align: left ;
 }
 
 /* picture of house on home side and div text under*/
 #text {
-  font-size: medium;
+  font-size: x-large;
   display: flex;
   flex-direction: column;
   flex: 1;
@@ -242,6 +242,7 @@ height:auto;
     color:ivory;
     margin: 0;
 }
+/* contact name in footer*/
 
 #contact {
   padding: 15px;

@@ -129,7 +129,7 @@ rental.html
 
 
 ## Lighthouse
-![image](https://github.com/Christina5P/rent-a-house/assets/160019695/f95966ea-2584-4a60-851c-229aad413d5d)
+![image](https://github.com/Christina5P/rent-a-house/assets/160019695/15a37b0a-8208-4f06-885a-cfdd75260863)
 
 ## Testing Respponsive
 - https://responsivedesignchecker.com/<

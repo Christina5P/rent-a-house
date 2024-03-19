@@ -97,6 +97,7 @@ Upload more and updated pictures.
 2. Next step is too book and get confirmed right away on the site.
 
 <hr>
+# Testing
 
 ## Manual Testing 
 * I have tested with Safari on Ipad
@@ -110,19 +111,27 @@ Upload more and updated pictures.
 # HTML validator
 * I have checked the HTML codes through https://validator.w3.org
 
+Index.html
 ![image](https://github.com/Christina5P/rent-a-house/assets/160019695/e834cdba-4eb7-49ac-a0dc-78aa1690abef)
+Gallery.html
+![image](https://github.com/Christina5P/rent-a-house/assets/160019695/eea6a882-849f-4a12-bb9d-6da2236f6229)
+Location.html
+![image](https://github.com/Christina5P/rent-a-house/assets/160019695/1a1464ee-302b-49f2-b0fb-d11dad7f4cb5)
+rental.html
+![image](https://github.com/Christina5P/rent-a-house/assets/160019695/1219b91b-081d-4cf9-bc09-850c31a55ca7)
 
-# CSS Style
+
+## CSS Style
 * I have checked the CSS style through   https://jigsaw.w3.org/css-validator
 ![image](https://github.com/Christina5P/rent-a-house/assets/160019695/fe281ea4-41c7-4875-bdcf-4baab3960264)
 
 * I have checked the resposive through responsivedesignchecker.com
 
 
-# Lighthouse
+## Lighthouse
 ![image](https://github.com/Christina5P/rent-a-house/assets/160019695/f95966ea-2584-4a60-851c-229aad413d5d)
 
-# Testing Respponsive
+## Testing Respponsive
 - https://responsivedesignchecker.com/<
   ![image](https://github.com/Christina5P/rent-a-house/assets/160019695/15d3e39b-5734-4fbc-896d-607b0e604d71)
 

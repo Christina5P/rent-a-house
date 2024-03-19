@@ -103,7 +103,8 @@ Upload more and updated pictures.
 * I have tested with Safari on Iphone
 * I have tested all internal and external link
 * I have checked the contact form and its fields/ submit
-* I have tested thye responsive through the diffrent device sizes in Chrome inspections window
+* I have tested with different browsers- Chrome, explorer, microsoft edge
+* I have tested the responsive through the diffrent device sizes in Chrome inspections window
   
 <hr>
 # HTML validator
@@ -121,13 +122,20 @@ Upload more and updated pictures.
 # Lighthouse
 ![image](https://github.com/Christina5P/rent-a-house/assets/160019695/f95966ea-2584-4a60-851c-229aad413d5d)
 
-https://responsivedesignchecker.com/
+# Testing Respponsive
+- https://responsivedesignchecker.com/
+![alt text](image-1.png)
+
+- https://ui.dev/amiresponsive
+
+![alt text](image.png)
 
 <hr>
 
 ## Bugs
 Through testing I found bugs that are resolves:
 - Uploaded new Photo with smaller sizes
+- The deployed site didn´t find links to img. I resolved it through tutorlesson of how to point at right map
 
 **Areas for Improvement**
 
@@ -146,6 +154,7 @@ The sources I have used in the project is:
 - Header background is from https://pixabay.com/
 - Inspiration of codes are taken from "love Running" project (CI tutoring)
 - https://fontawesome.com/ - icons to the social media in the footer
+- Tutor assistance -teach how to point link to right map in workspace
 
 # Acknowledgments
 I will say thank you to a few people, who helped me proceed my P1 :

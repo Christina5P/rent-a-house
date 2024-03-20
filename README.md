@@ -1,6 +1,6 @@
 <!--<p align="center"><img src="/assets/images/responsive.png" alt="drawing" width="800"/></p> -->
 
-## Rent a House
+#Rent a House
 
 Rent a house is a site for renting a house for vacation in Sweden.
 A lot of people looking for nature and calmness, a break from the busy everyday life.
@@ -14,9 +14,8 @@ This is a house for short time rental from 1 night and up to 1 month.
 
 <hr>
 
-## Contents
+# Contents
 **Navigation Bar**
-![image](https://github.com/Christina5P/rent-a-house/assets/160019695/91e4db69-c279-4f35-9b38-9aa22a760a17)
 There is a navigation bar, visible on every page and you can in easy way keep track wich side you are heading for the moment with a frame mark of the sidename i the nav.bar
 The menu is right under the heading name, so it is easy to find. The heading name is a link, so you can click on the header name, to go back to the first page.
 You can also hoover over the menu and you see a hand mark.
@@ -24,17 +23,19 @@ The whole menu is displayed on smaller devices as well, since there is enough sp
 
 The background picture in the head is a sky and I think it fits on top of the page and give you a feeling of nature.
 
+![image](https://github.com/Christina5P/rent-a-house/assets/160019695/91e4db69-c279-4f35-9b38-9aa22a760a17)
+
 <hr> 
 
  **Home Page** - This part is to give a short description where the house is located and what you can expect from the rental object.
 A picture of the rental house with a short description how many rooms and size it is.
 ![image](https://github.com/Christina5P/rent-a-house/assets/160019695/ebdbc4f7-45b6-498d-8585-3415311c8e41)
 
-<br> 
+<hr> 
 
 **Gallery Page** - 
 Private pictures of the object, since pictures give you a feeling and say more than words.
-<br> 
+<hr> 
 
 **Location Page** - Information of the area. It is a list with distance to some services and a map of location.
 ![image](https://github.com/Christina5P/rent-a-house/assets/160019695/c50b602f-c7c9-46df-8ea8-8ee3d1ca7f26)
@@ -43,7 +44,7 @@ The map is a link to google map and you can change size of the map directly on t
 It is pinned with the exacly location of the residence.
 The map is placed in the footer section, so it doesn´t disturbe the other content and are placed on the end of the page.
 
-<br> 
+<hr> 
 
 **Rental Page** - Contact formular to sending a request of booking or more information.
 Includes field for name and e-mail adress that is required and booking and message field for complement and are not required to fill in.
@@ -54,7 +55,7 @@ Includes field for name and e-mail adress that is required and booking and messa
 **404 Page**
 A personal 404-page is created if a user gets a broken link and it is a message with a link on that page, so the user can navigate back
 
-## The Footer
+# The Footer
 
 -The footer have links to social media.
 - Contact in the end of the footer
@@ -62,7 +63,7 @@ A personal 404-page is created if a user gets a broken link and it is a message 
 
 <hr> 
 
-## Structure
+# Structure
 I started with a skeleton, drawn in a word doc. 
 I uploaded the doc in my repositories.
 After I started build the webpages, I added a Gallery page to show more pictures.
@@ -71,7 +72,7 @@ Reason for that is to get more sense expressions.
 
 <hr>
 
-## Design
+# Design
 
 - Colours will give you a happy holiday feeling. I have 2 base colours, since there is some pictures that make the pages colourful.
   Background colour is a light ivory and I use a dark colour to make the text easily visible
@@ -101,9 +102,9 @@ Upload more and updated pictures.
 
 <hr>
 
-## Testing
+# Testing
 
-# Manual Testing 
+## Manual Testing 
 * All pages were tested from mobile screen and upwards:
 * ALl pages were tested in different browsers- Chrome, explorer, microsoft edge 
 - I have tested with the developer tool - OK
@@ -115,8 +116,9 @@ Upload more and updated pictures.
 
 <hr>
 
-# HTML validator
-* I have checked the HTML codes through https://validator.w3.org
+## HTML validator
+* I have checked the HTML codes through https://validator.w3.org 
+All codes are OK
 
 Index.html
 ![image](https://github.com/Christina5P/rent-a-house/assets/160019695/e834cdba-4eb7-49ac-a0dc-78aa1690abef)
@@ -129,23 +131,42 @@ rental.html
 404.html
 ![alt text](image.png)
 
-# CSS Style
+## CSS Style
 * I have checked the CSS style through   https://jigsaw.w3.org/css-validator
 ![image](https://github.com/Christina5P/rent-a-house/assets/160019695/fe281ea4-41c7-4875-bdcf-4baab3960264)
+All codes are OK
 
-* I have checked the resposive through responsivedesignchecker.com
 
+## Lighthouse
+* I have tested every page in Lighthouse
 
-# Lighthouse
 ![image](https://github.com/Christina5P/rent-a-house/assets/160019695/7fe35499-a7a4-4a2d-8215-b476f6e1261c)
+
 ![image](https://github.com/Christina5P/rent-a-house/assets/160019695/5fb24016-4eac-4972-babb-dbc13a7bfa85)
+
 ![image](https://github.com/Christina5P/rent-a-house/assets/160019695/25d63255-c70c-4050-84c8-4bce8c92fc59)
+
 ![image](https://github.com/Christina5P/rent-a-house/assets/160019695/13362160-15ca-4a67-b5fb-3ecf42c886a4)
 
+## https://wave.webaim.org/ 
+I have tested every page. See print screen with no errors
+![image](https://github.com/Christina5P/rent-a-house/assets/160019695/a0a4a62b-acfe-483a-bc87-b6d4609e8926)
+
+![image](https://github.com/Christina5P/rent-a-house/assets/160019695/131d91fe-c82c-4bb1-9d8e-f678770a1fa1)
+
+![image](https://github.com/Christina5P/rent-a-house/assets/160019695/cbb2adb4-7aff-4d26-a2cc-9c6b06fe1246)
+
+![image](https://github.com/Christina5P/rent-a-house/assets/160019695/d62cd997-564e-4e3c-ad7e-e4addda2e32b)
 
 
 
-# Testing Responsive
+
+
+
+
+## Testing Responsive
+*I have tested in two different websides. See print screen
+
 - https://responsivedesignchecker.com/<
   ![image](https://github.com/Christina5P/rent-a-house/assets/160019695/15d3e39b-5734-4fbc-896d-607b0e604d71)
 

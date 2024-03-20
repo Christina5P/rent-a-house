@@ -20,31 +20,6 @@ body {
          }
 
  
-/* Nav 
-     .navbar {
-      position: absolute;
-      background-color: ivory;
-      padding-left: 0.7rem;
-      width: 100vw;
-      box-shadow: 0 3px 3px #59664ade;
-      display: block;
-      top: 7%;
-      left: 0;
-  }
-  #nav-toggle:checked~nav {
-      display: block;
-     
-  }
-  #nav-toggle {
-      display: none;
-  }
-  .nav-toggle-label {
-      font-size: .8rem;
-      color:#285780;
-   display: none;
-      padding-right: 1rem;
-  }
-   */
        /* menu in header*/
      nav {
         position:absolute;

@@ -101,21 +101,21 @@ Upload more and updated pictures.
 
 <hr>
 
-# Testing
+## Testing
 
-## Manual Testing 
-* All pages were tested from mobile screen and upwards.
-* I have tested with the developer tool 
-* I have tested click and drag the responsive window
-* I have tested all internal and external link
-* I have test that 404-page link the user to homepage
-* I have checked the contact form and its fields/ submit
-* I have tested with different browsers- Chrome, explorer, microsoft edge
+# Manual Testing 
+* All pages were tested from mobile screen and upwards:
+* ALl pages were tested in different browsers- Chrome, explorer, microsoft edge 
+- I have tested with the developer tool - OK
+- I have tested click and drag the responsive window - OK
+- I have tested all internal and external link - OK
+(Social Media Links	Test Instagram link	Instagram profile opens in a separate tab)
+- I have test that 404-page link the user to homepage - OK
+- I have checked the contact form and its fields/ submit - OK
 
-  
 <hr>
 
-## HTML validator
+# HTML validator
 * I have checked the HTML codes through https://validator.w3.org
 
 Index.html
@@ -129,23 +129,23 @@ rental.html
 404.html
 ![alt text](image.png)
 
-## CSS Style
+# CSS Style
 * I have checked the CSS style through   https://jigsaw.w3.org/css-validator
 ![image](https://github.com/Christina5P/rent-a-house/assets/160019695/fe281ea4-41c7-4875-bdcf-4baab3960264)
 
 * I have checked the resposive through responsivedesignchecker.com
 
 
-## Lighthouse
+# Lighthouse
 ![image](https://github.com/Christina5P/rent-a-house/assets/160019695/7fe35499-a7a4-4a2d-8215-b476f6e1261c)
 ![image](https://github.com/Christina5P/rent-a-house/assets/160019695/5fb24016-4eac-4972-babb-dbc13a7bfa85)
-
+![image](https://github.com/Christina5P/rent-a-house/assets/160019695/25d63255-c70c-4050-84c8-4bce8c92fc59)
 ![image](https://github.com/Christina5P/rent-a-house/assets/160019695/13362160-15ca-4a67-b5fb-3ecf42c886a4)
 
 
 
 
-## Testing Responsive
+# Testing Responsive
 - https://responsivedesignchecker.com/<
   ![image](https://github.com/Christina5P/rent-a-house/assets/160019695/15d3e39b-5734-4fbc-896d-607b0e604d71)
 
@@ -154,7 +154,7 @@ rental.html
 
 <hr>
 
-# Bugs
+## Bugs
 Through testing I found bugs that are resolves:
 - Uploaded new Photo with smaller sizes
 - The deployed site didn´t find links to img. I resolved it through tutorlesson of how to point at right map
@@ -162,7 +162,7 @@ Through testing I found bugs that are resolves:
 
 <hr>
 
-# Source references
+## Source references
 
 The sources I have used in the project is:
 - www.w3schools.com -More information about CSS styling Images and CSS codes
@@ -179,7 +179,7 @@ The sources I have used in the project is:
 - Tutor assistance -teach how to point link to right map in workspace
 - Mentor assistance - tip to the project for nicer look (as without to much space on the page, icon and links)
 
-# Acknowledgments
+## Acknowledgments
 I will say thank you to a few people, who helped me proceed my P1 :
 - My mentor Gareth
 - My student fellow Josefin YoshidaDahlqvist, who has supported me through the project
@@ -187,7 +187,7 @@ I will say thank you to a few people, who helped me proceed my P1 :
 - Kristyna, who has a good pep attitude and helpful in a cleary way
 - My studentfellow Jan, who gave me feedback
   
-# Mentions
+## Mentions
 Under the project I get the understanding how yo use commit messages and explain better than i have done in the project.
 I getting more structur instead of commit for safetys sake and maybe it doesn´t have any valuable information.
 

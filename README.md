@@ -15,7 +15,7 @@ This is a house for short time rental from 1 night and up to 1 month.
 <hr>
 
 ## Contents
-Navigation Bar
+**Navigation Bar**
 ![image](https://github.com/Christina5P/rent-a-house/assets/160019695/91e4db69-c279-4f35-9b38-9aa22a760a17)
 There is a navigation bar, visible on every page and you can in easy way keep track wich side you are heading for the moment with a frame mark of the sidename i the nav.bar
 The menu is right under the heading name, so it is easy to find. The heading name is a link, so you can click on the header name, to go back to the first page.
@@ -51,6 +51,9 @@ Includes field for name and e-mail adress that is required and booking and messa
 
 <hr> 
 
+**404 Page**
+A personal 404-page is created if a user gets a broken link and it is a message with a link on that page, so the user can navigate back
+
 ## The Footer
 
 -The footer have links to social media.
@@ -81,7 +84,7 @@ link: "https://fonts.googleapis.com/css2?family=Gluten:wght@100..900&display=swa
 
 - I have create an own davicon to use in head, with same font and colour as the pages.
 
-## Future Features
+# Future Features to Implement
 
 **Social media links**
 The thought is to upload a video on youtube, but it hasn´t been done yet.
@@ -97,17 +100,21 @@ Upload more and updated pictures.
 2. Next step is too book and get confirmed right away on the site.
 
 <hr>
-# Testing
 
-## Manual Testing 
-* I have tested with Safari on Ipad
-* I have tested with Safari on Iphone
-* I have tested all internal and external link
-* I have checked the contact form and its fields/ submit
-* I have tested with different browsers- Chrome, explorer, microsoft edge
-* I have tested the responsive through the diffrent device sizes in Chrome inspections window
-  
+## Testing
+
+# Manual Testing 
+* All pages were tested from mobile screen and upwards:
+* ALl pages were tested in different browsers- Chrome, explorer, microsoft edge 
+- I have tested with the developer tool - OK
+- I have tested click and drag the responsive window - OK
+- I have tested all internal and external link - OK
+(Social Media Links	Test Instagram link	Instagram profile opens in a separate tab)
+- I have test that 404-page link the user to homepage - OK
+- I have checked the contact form and its fields/ submit - OK
+
 <hr>
+
 # HTML validator
 * I have checked the HTML codes through https://validator.w3.org
 
@@ -122,17 +129,23 @@ rental.html
 404.html
 ![alt text](image.png)
 
-## CSS Style
+# CSS Style
 * I have checked the CSS style through   https://jigsaw.w3.org/css-validator
 ![image](https://github.com/Christina5P/rent-a-house/assets/160019695/fe281ea4-41c7-4875-bdcf-4baab3960264)
 
 * I have checked the resposive through responsivedesignchecker.com
 
 
-## Lighthouse
-![image](https://github.com/Christina5P/rent-a-house/assets/160019695/15a37b0a-8208-4f06-885a-cfdd75260863)
+# Lighthouse
+![image](https://github.com/Christina5P/rent-a-house/assets/160019695/7fe35499-a7a4-4a2d-8215-b476f6e1261c)
+![image](https://github.com/Christina5P/rent-a-house/assets/160019695/5fb24016-4eac-4972-babb-dbc13a7bfa85)
+![image](https://github.com/Christina5P/rent-a-house/assets/160019695/25d63255-c70c-4050-84c8-4bce8c92fc59)
+![image](https://github.com/Christina5P/rent-a-house/assets/160019695/13362160-15ca-4a67-b5fb-3ecf42c886a4)
 
-## Testing Responsive
+
+
+
+# Testing Responsive
 - https://responsivedesignchecker.com/<
   ![image](https://github.com/Christina5P/rent-a-house/assets/160019695/15d3e39b-5734-4fbc-896d-607b0e604d71)
 
@@ -145,6 +158,7 @@ rental.html
 Through testing I found bugs that are resolves:
 - Uploaded new Photo with smaller sizes
 - The deployed site didn´t find links to img. I resolved it through tutorlesson of how to point at right map
+- I´ve got to much space between main and footer. With help from my mentor I figure out that I had made the marginal too big for bigger screen and could correct it.
 
 <hr>
 

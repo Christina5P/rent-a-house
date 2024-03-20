@@ -1,7 +1,6 @@
 <!--<p align="center"><img src="/assets/images/responsive.png" alt="drawing" width="800"/></p> -->
 
 # Rent a House
-
 Rent a house is a site for renting a house for vacation in Sweden.
 A lot of people looking for nature and calmness, a break from the busy everyday life.
 This is a opportunity to rent a house in a beautiful area.
@@ -59,7 +58,6 @@ Includes field for name and e-mail adress that is required and booking and messa
 A personal 404-page is created if a user gets a broken link and it is a message with a link on that page, so the user can navigate back
 
 # The Footer
-
 -The footer have links to social media.
 - Contact in the end of the footer
 - ![image](https://github.com/Christina5P/rent-a-house/assets/160019695/1c9272f2-9d76-472b-9ae6-46f5307a2361)
@@ -76,7 +74,6 @@ Reason for that is to get more sense expressions.
 <hr>
 
 # Design
-
 - Colours will give you a happy holiday feeling. I have 2 base colours, since there is some pictures that make the pages colourful.
   Background colour is a light ivory and I use a dark colour to make the text easily visible
   ![image](https://github.com/Christina5P/rent-a-house/assets/160019695/b3c7a8b1-21fc-4c36-b2bd-960a76d15b38)
@@ -162,11 +159,6 @@ I have tested every page. See print screen with no errors
 ![image](https://github.com/Christina5P/rent-a-house/assets/160019695/d62cd997-564e-4e3c-ad7e-e4addda2e32b)
 
 
-
-
-
-
-
 ## Testing Responsive
 *I have tested in two different websides. See print screen
 
@@ -186,14 +178,30 @@ Through testing I found bugs that are resolves:
 
 <hr>
 
-## Source references
+## Deployment 
+The site was created using Visual Studio code editor and is continuing push to GitHub.
+Readme is written in VS code space / Git Hub and I have pull and push between code spece and repository.
+The codes I´ve been using is git pull / git add . / git commit -m"" / git push
 
+The site was deployed to GitHub pages.
+The way I manage that:
+1.Navigate to my respority
+2.From the setting tab (above the repository) click setting tab.
+3. Selevt Pages in the left-hand menu
+4.Section Build and deployment- source select Deploy from a branch
+5. Select main in first area and root in second area
+6. Save
+
+You find the public site under git-hub-pages if you go to Deployments om right-hand menu
+![image](https://github.com/Christina5P/rent-a-house/assets/160019695/d4799d15-5ac6-4e54-8d40-a3d91fc0ccef)
+
+## Source references
 The sources I have used in the project is:
 - www.w3schools.com -More information about CSS styling Images and CSS codes
 - Google map - link to my map
 - Google Fonts - Find the font to use
-- https://www.color-hex.com - tT find colours
--https://www.youtube.com/watch?v=uu0lOX6Ot3s - more tips to create image gallery and lesson of creating an own 404 error page
+- https://www.color-hex.com - to find colours
+-https://www.youtube.com- more tips to create image gallery and lesson of creating an own 404 error page
 -https://pixlr.com/se/express/ - to change picture to webformat
 - Pictures- It is private pictures uploaded
 - Header background is from https://pixabay.com/
@@ -202,6 +210,11 @@ The sources I have used in the project is:
 - www.freepik.com - free image to 404.index
 - Tutor assistance -teach how to point link to right map in workspace
 - Mentor assistance - tip to the project for nicer look (as without to much space on the page, icon and links)
+
+## Media
+-Website logo is created by me in www.fontawesome.com and downloaded to Rent-a-house repository
+-Map is fromm Google map and is copied from a link with that view the specific location
+
 
 ## Acknowledgments
 I will say thank you to a few people, who helped me proceed my P1 :

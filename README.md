@@ -35,6 +35,9 @@ A picture of the rental house with a short description how many rooms and size i
 
 **Gallery Page** - 
 Private pictures of the object, since pictures give you a feeling and say more than words.
+
+![image](https://github.com/Christina5P/rent-a-house/assets/160019695/ecdd843b-60bc-44c2-813a-b7021f293dc2)
+
 <hr> 
 
 **Location Page** - Information of the area. It is a list with distance to some services and a map of location.

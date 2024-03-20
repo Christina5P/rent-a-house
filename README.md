@@ -50,6 +50,7 @@ Includes field for name and e-mail adress that is required and booking and messa
 ![image](https://github.com/Christina5P/rent-a-house/assets/160019695/2850bbf9-d8cf-4ffb-b6ee-ada61cf1e761)
 
 <hr> 
+
 **404 Page**
 A personal 404-page is created if a user gets a broken link and it is a message with a link on that page, so the user can navigate back
 
@@ -99,10 +100,10 @@ Upload more and updated pictures.
 2. Next step is too book and get confirmed right away on the site.
 
 <hr>
+
 # Testing
 
 ## Manual Testing 
-
 * All pages were tested from mobile screen and upwards.
 * I have tested with the developer tool 
 * I have tested click and drag the responsive window
@@ -113,7 +114,8 @@ Upload more and updated pictures.
 
   
 <hr>
-# HTML validator
+
+## HTML validator
 * I have checked the HTML codes through https://validator.w3.org
 
 Index.html
@@ -152,7 +154,7 @@ rental.html
 
 <hr>
 
-## Bugs
+# Bugs
 Through testing I found bugs that are resolves:
 - Uploaded new Photo with smaller sizes
 - The deployed site didn´t find links to img. I resolved it through tutorlesson of how to point at right map
@@ -160,7 +162,7 @@ Through testing I found bugs that are resolves:
 
 <hr>
 
-## Source references
+# Source references
 
 The sources I have used in the project is:
 - www.w3schools.com -More information about CSS styling Images and CSS codes
@@ -177,7 +179,7 @@ The sources I have used in the project is:
 - Tutor assistance -teach how to point link to right map in workspace
 - Mentor assistance - tip to the project for nicer look (as without to much space on the page, icon and links)
 
-## Acknowledgments
+# Acknowledgments
 I will say thank you to a few people, who helped me proceed my P1 :
 - My mentor Gareth
 - My student fellow Josefin YoshidaDahlqvist, who has supported me through the project
@@ -185,7 +187,7 @@ I will say thank you to a few people, who helped me proceed my P1 :
 - Kristyna, who has a good pep attitude and helpful in a cleary way
 - My studentfellow Jan, who gave me feedback
   
-## Mentions
+# Mentions
 Under the project I get the understanding how yo use commit messages and explain better than i have done in the project.
 I getting more structur instead of commit for safetys sake and maybe it doesn´t have any valuable information.
 

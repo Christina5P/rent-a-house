@@ -119,7 +119,8 @@ Location.html
 ![image](https://github.com/Christina5P/rent-a-house/assets/160019695/1a1464ee-302b-49f2-b0fb-d11dad7f4cb5)
 rental.html
 ![image](https://github.com/Christina5P/rent-a-house/assets/160019695/1219b91b-081d-4cf9-bc09-850c31a55ca7)
-
+404.html
+![alt text](image.png)
 
 ## CSS Style
 * I have checked the CSS style through   https://jigsaw.w3.org/css-validator

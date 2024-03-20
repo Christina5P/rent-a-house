@@ -193,6 +193,10 @@ height:auto;
     margin: 50% 20px 10px 0  ;
   } 
 
+  iframe {
+    width: 100%;
+    height: 500px;
+  }
 /* Rental page with sign up form*/
 #form {
     margin: 5px;

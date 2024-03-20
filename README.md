@@ -169,5 +169,7 @@ I will say thank you to a few people, who helped me proceed my P1 :
 - My studentfellows on slack with quick respons of all my questions
 - Kristyna, who has a good pep attitude and helpful in a cleary way
   
-
+## Mentions
+Under the project I get the understanding how yo use commit messages and explain better than is dine in the project.
+I getting more structur instead of commit for safetys sake and maybe it doesn´t have any valuable information.
 

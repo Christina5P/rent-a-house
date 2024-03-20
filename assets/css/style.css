@@ -21,7 +21,7 @@ body {
 
  
 /* Nav toggle - change menu with drop down -dont use them because HTML doesn´t work
-  */
+ 
 
      .navbar {
       position: absolute;
@@ -46,7 +46,7 @@ body {
    display: none;
       padding-right: 1rem;
   }
-  
+   */
        /* menu in header*/
      nav {
         position:absolute;

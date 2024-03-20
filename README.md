@@ -1,6 +1,6 @@
 <!--<p align="center"><img src="/assets/images/responsive.png" alt="drawing" width="800"/></p> -->
 
-#Rent a House
+# Rent a House
 
 Rent a house is a site for renting a house for vacation in Sweden.
 A lot of people looking for nature and calmness, a break from the busy everyday life.

@@ -154,12 +154,13 @@ The sources I have used in the project is:
 - Google map - link to my map
 - Google Fonts - Find the font to use
 - https://www.color-hex.com - tT find colours
--https://www.youtube.com/watch?v=uu0lOX6Ot3s - more tips to create image gallery and lesson of create an own 404 error page
+-https://www.youtube.com/watch?v=uu0lOX6Ot3s - more tips to create image gallery and lesson of creating an own 404 error page
 -https://pixlr.com/se/express/ - to change picture to webformat
 - Pictures- It is private pictures uploaded
 - Header background is from https://pixabay.com/
 - Inspiration of codes are taken from "love Running" project (CI tutoring)
 - https://fontawesome.com/ - icons to the social media in the footer and icon in head
+- www.freepik.com - free image to 404.index
 - Tutor assistance -teach how to point link to right map in workspace
 - Mentor assistance - tip to the project for nicer look (as without to much space on the page, icon and links)
 

@@ -22,9 +22,7 @@ The menu is right under the heading name, so it is easy to find. The heading nam
 You can also hoover over the menu and you see a hand mark.
 The whole menu is displayed on smaller devices as well, since there is enough space to fit and it´s quicker to see the pages instead of two steps action. 
 
-
-
-The background picture are taken at the location and will give you a feeling of the calm area you will stay in.
+The background picture in the head is a sky and I think it fits on top of the page and give you a feeling of nature.
 
 <hr> 
 
@@ -81,12 +79,14 @@ Reason for that is to get more sense expressions.
 Fonts are taken from Google Fonts
 link: "https://fonts.googleapis.com/css2?family=Gluten:wght@100..900&display=swap"
 
+- I have create an own davicon to use in head, with same font and colour as the pages.
+
 ## Future Features
 
 **Social media links**
-The thouht is to upload a video on youtube, but it hasn´t been done yet.
+The thought is to upload a video on youtube, but it hasn´t been done yet.
 <br>
-When I start the renting, Krokviken will have an own site on fb and instagram and the links will then go direct to those sites.
+When I start renting, Krokviken will have an own site on fb and instagram and the links will then go direct to those sites.
 That can lead to more traffic and the object will get attention to more poople and more revenue for me.
 
 **Gallery**
@@ -131,7 +131,7 @@ rental.html
 ## Lighthouse
 ![image](https://github.com/Christina5P/rent-a-house/assets/160019695/15a37b0a-8208-4f06-885a-cfdd75260863)
 
-## Testing Respponsive
+## Testing Responsive
 - https://responsivedesignchecker.com/<
   ![image](https://github.com/Christina5P/rent-a-house/assets/160019695/15d3e39b-5734-4fbc-896d-607b0e604d71)
 
@@ -154,22 +154,24 @@ The sources I have used in the project is:
 - Google map - link to my map
 - Google Fonts - Find the font to use
 - https://www.color-hex.com - tT find colours
--https://www.youtube.com/watch?v=uu0lOX6Ot3s - more tips to create image gallery
+-https://www.youtube.com/watch?v=uu0lOX6Ot3s - more tips to create image gallery and lesson of create an own 404 error page
 -https://pixlr.com/se/express/ - to change picture to webformat
 - Pictures- It is private pictures uploaded
 - Header background is from https://pixabay.com/
 - Inspiration of codes are taken from "love Running" project (CI tutoring)
-- https://fontawesome.com/ - icons to the social media in the footer
+- https://fontawesome.com/ - icons to the social media in the footer and icon in head
 - Tutor assistance -teach how to point link to right map in workspace
+- Mentor assistance - tip to the project for nicer look (as without to much space on the page, icon and links)
 
 ## Acknowledgments
 I will say thank you to a few people, who helped me proceed my P1 :
 - My mentor Gareth
-- My student fellow Josefin YoshidaDahlqvist
+- My student fellow Josefin YoshidaDahlqvist, who has supported me through the project
 - My studentfellows on slack with quick respons of all my questions
 - Kristyna, who has a good pep attitude and helpful in a cleary way
+- My studentfellow Jan, who gave me feedback
   
 ## Mentions
-Under the project I get the understanding how yo use commit messages and explain better than is dine in the project.
+Under the project I get the understanding how yo use commit messages and explain better than i have done in the project.
 I getting more structur instead of commit for safetys sake and maybe it doesn´t have any valuable information.
 

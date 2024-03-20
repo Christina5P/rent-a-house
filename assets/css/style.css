@@ -252,6 +252,14 @@ height:auto;
   bottom: 0%;
 }
 
+.container {
+  text-align: center;
+}
+
+.error-img{
+  width: 50%; 
+}
+
 /* media query: 280PX and up*/
 nav {
  

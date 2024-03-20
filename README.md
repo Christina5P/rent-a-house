@@ -15,7 +15,7 @@ This is a house for short time rental from 1 night and up to 1 month.
 <hr>
 
 ## Contents
-Navigation Bar
+**Navigation Bar**
 ![image](https://github.com/Christina5P/rent-a-house/assets/160019695/91e4db69-c279-4f35-9b38-9aa22a760a17)
 There is a navigation bar, visible on every page and you can in easy way keep track wich side you are heading for the moment with a frame mark of the sidename i the nav.bar
 The menu is right under the heading name, so it is easy to find. The heading name is a link, so you can click on the header name, to go back to the first page.
@@ -50,6 +50,8 @@ Includes field for name and e-mail adress that is required and booking and messa
 ![image](https://github.com/Christina5P/rent-a-house/assets/160019695/2850bbf9-d8cf-4ffb-b6ee-ada61cf1e761)
 
 <hr> 
+**404 Page**
+A personal 404-page is created if a user gets a broken link and it is a message with a link on that page, so the user can navigate back
 
 ## The Footer
 
@@ -81,7 +83,7 @@ link: "https://fonts.googleapis.com/css2?family=Gluten:wght@100..900&display=swa
 
 - I have create an own davicon to use in head, with same font and colour as the pages.
 
-## Future Features
+# Future Features to Implement
 
 **Social media links**
 The thought is to upload a video on youtube, but it hasn´t been done yet.
@@ -100,12 +102,15 @@ Upload more and updated pictures.
 # Testing
 
 ## Manual Testing 
-* I have tested with Safari on Ipad
-* I have tested with Safari on Iphone
+
+* All pages were tested from mobile screen and upwards.
+* I have tested with the developer tool 
+* I have tested click and drag the responsive window
 * I have tested all internal and external link
+* I have test that 404-page link the user to homepage
 * I have checked the contact form and its fields/ submit
 * I have tested with different browsers- Chrome, explorer, microsoft edge
-* I have tested the responsive through the diffrent device sizes in Chrome inspections window
+
   
 <hr>
 # HTML validator
@@ -130,7 +135,13 @@ rental.html
 
 
 ## Lighthouse
-![image](https://github.com/Christina5P/rent-a-house/assets/160019695/15a37b0a-8208-4f06-885a-cfdd75260863)
+![image](https://github.com/Christina5P/rent-a-house/assets/160019695/7fe35499-a7a4-4a2d-8215-b476f6e1261c)
+![image](https://github.com/Christina5P/rent-a-house/assets/160019695/5fb24016-4eac-4972-babb-dbc13a7bfa85)
+
+![image](https://github.com/Christina5P/rent-a-house/assets/160019695/13362160-15ca-4a67-b5fb-3ecf42c886a4)
+
+
+
 
 ## Testing Responsive
 - https://responsivedesignchecker.com/<
@@ -145,6 +156,7 @@ rental.html
 Through testing I found bugs that are resolves:
 - Uploaded new Photo with smaller sizes
 - The deployed site didn´t find links to img. I resolved it through tutorlesson of how to point at right map
+- I´ve got to much space between main and footer. With help from my mentor I figure out that I had made the marginal too big for bigger screen and could correct it.
 
 <hr>
 

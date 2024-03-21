@@ -159,7 +159,6 @@ height:auto;
 /*Google-map */
 .map {
     clip-path: margin-box;
-    margin: 50% 20px 10px 0  ;
   } 
 
   iframe {
@@ -182,6 +181,7 @@ height:auto;
     border: 1px solid #285780;
     border-radius: 5px;
     display: block; }
+    
     /* bigger space for message*/
     
  #message{
@@ -193,6 +193,9 @@ height:auto;
     margin-top: 25px;
     width: 75%;
     height: 30px;
+    font-family: gluten, roboto, sans-serif;
+    font-size: xx-large;
+    color: #285780;
    }
 
 /* Footer with logos*/  
@@ -220,10 +223,11 @@ height:auto;
 #contact {
   padding: 15px;
   display: flex;
-  align-items: flex-end;
+  align-items: flex-start;
   position: relative;
   bottom: 0%;
 }
+
 
 /* errorpage 404 with img*/
 .container {
@@ -258,7 +262,7 @@ nav {
       width: 50%;    
       border-radius: 20px;        
       }
-      #winter{ border-radius: 20px;
+      #winter { border-radius: 20px;
       width: 80%;
     }
        #social-networks {
@@ -275,8 +279,12 @@ nav {
       .gallery {
         display: flex;
         flex-direction: row;
+        width: 60%;
       }
       #winter{ 
         width: 100%;}
+        .gallery img {
+          width: 60%;
+        }
  } 
 

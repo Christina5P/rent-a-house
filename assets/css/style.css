@@ -192,9 +192,9 @@ height:auto;
    .submit {
     margin-top: 25px;
     width: 75%;
-    height: 30px;
+    height: auto;
     font-family: gluten, roboto, sans-serif;
-    font-size: xx-large;
+    font-size: x-large;
     color: #285780;
    }
 
@@ -226,6 +226,7 @@ height:auto;
   align-items: flex-start;
   position: relative;
   bottom: 0%;
+  flex-wrap: wrap;
 }
 
 

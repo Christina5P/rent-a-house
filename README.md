@@ -162,7 +162,7 @@ I have tested every page. See print screen with no errors
 ## Testing Responsive
 *I have tested in two different websides. See print screen
 
-- https://responsivedesignchecker.com/<
+- https://responsivedesignchecker.com
   ![image](https://github.com/Christina5P/rent-a-house/assets/160019695/15d3e39b-5734-4fbc-896d-607b0e604d71)
 
 - https://ui.dev/amiresponsive

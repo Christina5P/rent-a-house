@@ -151,7 +151,7 @@ I have tested every page in Lighthouse
 
 ![image](https://github.com/Christina5P/rent-a-house/assets/160019695/13362160-15ca-4a67-b5fb-3ecf42c886a4)
 
-### https://wave.webaim.org/ 
+### Wave 
 I have tested every page. See print screen with no errors
 
 ![image](https://github.com/Christina5P/rent-a-house/assets/160019695/a0a4a62b-acfe-483a-bc87-b6d4609e8926)
@@ -223,7 +223,8 @@ The sources I have used in the project is:
 - www.freepik.com - free image to 404.index
 - Tutor assistance -teach how to point link to right map in workspace
 - Mentor assistance - tip to the project for nicer look (as without to much space on the page, icon and links)
-
+- https://wave.webaim.org/ - to test the website
+- 
 <hr>
 
 ## Media

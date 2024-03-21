@@ -77,7 +77,7 @@ I also made the webside a little more personal to have an own icon in head, with
 ## Design
 - Colours will give you a happy holiday feeling. I have 2 base colours, since there is some pictures that make the pages colourful.
   Background colour is a light ivory and I use a dark colour to make the text easily visible
-  ![image](https://github.com/Christina5P/rent-a-house/assets/160019695/b3c7a8b1-21fc-4c36-b2bd-960a76d15b38)
+  ![image](https://github.com/Christina5P/rent-a-house/assets/160019695/b3c7a8b1-21fc-4c36-b2bd-960a76d15b38)  
 ![image](https://github.com/Christina5P/rent-a-house/assets/160019695/710f392a-68c8-46e2-8adf-c8be0661cc7c)
 
 - The font are choosen to get a casual design with a laidback and modern style.
@@ -109,12 +109,12 @@ Upload more and updated pictures.
 
 | Test           | Moment                                                                                  | Result |
 |--------------|-------------------------------------------------------------------------------------------|--------|
-| Screen sizes | I clicked on different screen sizes to see the responsive from the inspections in browser | ::ok:: |
-| Browsers     | I tested the webisde in different browsers- Chrome, explorer, Safari and microsoft edge   | ::ok:: |
-| Responsive   | I click and drag the responsive window                                                    | ::ok:: |
-| links        | I clicked on all internal and external links. Links to social media open in separate tab  | ::ok:: |
-| 404-page     | I tested write some more letters in url-adress to see you linked to homemade 404.page     | ..ok.. |
-| contact form | I write the content in contactform and got a "thank you" and link back to homepage        |  ..ok..|
+| Screen sizes | I clicked on different screen sizes to see the responsive from the inspections in browser | ok     |
+| Browsers     | I tested the webisde in different browsers- Chrome, explorer, Safari and microsoft edge   | ok     |
+| Responsive   | I click and drag the responsive window                                                    | ok     |
+| links        | I clicked on all internal and external links. Links to social media open in separate tab  | ok     |
+| 404-page     | I tested write some more letters in url-adress to see you linked to homemade 404.page     | ok     |
+| contact form | I write the content in contactform and got a "thank you" and link back to homepage        | ok     |
 
 <hr>
 

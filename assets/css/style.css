@@ -229,6 +229,8 @@ height:auto;
   flex-wrap: wrap;
 }
 
+/*link to the header*/
+
 .top {
   display: flex;
   align-items: center;

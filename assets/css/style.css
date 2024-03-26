@@ -251,8 +251,10 @@ height:auto;
 nav {
  
   margin-left: 10px;
-  }
-
+    }
+h2 {
+  text-align: left;
+}
 
  /* Media query: Large or landscape phones (576px and up)*/
  @media screen and (min-width: 576px) {

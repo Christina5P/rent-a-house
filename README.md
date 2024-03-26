@@ -244,6 +244,6 @@ I will say thank you to a few people, who helped me proceed my P1 :
   <hr>
 
 ## Mentions
-Under the project I get the understanding how yo use commit messages and explain better than i have done in the project.
-I getting more structur instead of commit for safetys sake and maybe it doesn´t have any valuable information.
+Under the project I got the understanding how yo use commit messages and explain better than I have done in the project.
+I getting more structur instead of commit for safetys sake and it didn´t have any valuable information.
 
